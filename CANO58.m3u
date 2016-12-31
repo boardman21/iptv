@@ -1,289 +1,274 @@
-#EXTM3U
+﻿#EXTM3U
+#EXTINF:-1,***** TÜRK *****
 
-#EXTINF:-1,kanal d
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/1.ts
-#EXTINF:-1,Kanal D HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/77.ts
-#EXTINF:-1,star
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/2.ts
-#EXTINF:-1,Star HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/103.ts
-#EXTINF:-1,atv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/3.ts
-#EXTINF:-1,ATV HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/73.ts
-#EXTINF:-1,show
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/4.ts
-#EXTINF:-1,SHOW TV HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/88.ts
-#EXTINF:-1,trt 1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/6.ts
-#EXTINF:-1,TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1,fox tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/5.ts
-#EXTINF:-1,FOX HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/123.ts
-#EXTINF:-1,kanal 7
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/7.ts
-#EXTINF:-1,kanal 7 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/72.ts
-#EXTINF:-1,tv 8
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/8.ts
-#EXTINF:-1,TV 8 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/75.ts
-#EXTINF:-1,BEYAZ TV HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/9.ts
-#EXTINF:-1,FLASH
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/10.ts
-#EXTINF:-1,TV-EM
-http://tvem.netmedya.org/tvem/tvem.stream/playlist.m3u8
-#EXTINF:-1,HABER-TÜRK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/13.ts
-#EXTINF:-1,CNN-TÜRK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/14.ts
-#EXTINF:-1,NTV HABER
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/15.ts
-#EXTINF:-1,TRT-HABER
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/16.ts
-#EXTINF:-1,A-HABER
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/17.ts
-#EXTINF:-1,HALK-TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/18.ts
-#EXTINF:-1,BENGÜTÜRK TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/19.ts
-#EXTINF:-1,ÜLKE
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/20.ts
-#EXTINF:-1,tgrt haber
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/22.ts
-#EXTINF:-1,BLOOMBERG-HT
-http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/playlist.m3u8
-#EXTINF:-1,KANAL-A
-http://stream.n3.noc.com.tr/kanala/kanala/playlist.m3u8
-#EXTINF:-1,ULUSAL-KANAL
-http://184.173.181.2:1935/8132/8132/playlist.m3u8
-#EXTINF:-1,KRAL
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/24.ts
-#EXTINF:-1,KRAL-POP
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/25.ts
-#EXTINF:-1,DREAM TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/26.ts
-#EXTINF:-1,DREAMTÜRK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/27.ts
-#EXTINF:-1,POWERTÜRK
-http://powertv.cdnturk.com/powertv/_definst_/powerturktv.smil/turkuvaz.m3u8
-#EXTINF:-1,TRT-MUZIK
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1,TRT-COCUK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/30.ts
-#EXTINF:-1,NICKELEDEON TR
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/31.ts
-#EXTINF:-1,CARTOON NETWORK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/32.ts
-#EXTINF:-1,PLANET COCUK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/33.ts
-#EXTINF:-1,KIDZ-ANIMEZ
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/180.ts
-#EXTINF:-1,MINIKA-COCUK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/34.ts
-#EXTINF:-1,SINEMA-COCUK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/35.ts
-#EXTINF:-1,SMART CLASSIC
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/302.ts
-#EXTINF:-1,SMART FEST
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/39.ts
-#EXTINF:-1,SMART-TURK
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/297.ts
-#EXTINF:-1,SMART-PREMIUM
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/44.ts
-#EXTINF:-1,SMART-GOLD
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/300.ts
-#EXTINF:-1,SMART-PLATIN
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/295.ts
-#EXTINF:-1,MOVIE MAX TURK
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/306.ts
-#EXTINF:-1,SINETV-2
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/310.ts
-#EXTINF:-1,a spor
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/82.ts
-#EXTINF:-1,NTV-SPOR
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/74.ts
-#EXTINF:-1,TRT Spor
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/78.ts
-#EXTINF:-1,sports tv
-http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:-1,EUROSPORT-1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/194.ts
-#EXTINF:-1,EUROSPORT-2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/43.ts
-#EXTINF:-1,LİG-TV 1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/100.ts
-#EXTINF:-1,LIGTV 1 -YEDEK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/79.ts
-#EXTINF:-1,LIG-TV 2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/125.ts
-#EXTINF:-1,LIG-TV 3
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/101.ts
-#EXTINF:-1,TIVIBU-1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/89.ts
-#EXTINF:-1,TIVIBU-2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/90.ts
-#EXTINF:-1,TIVIBU-3
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/632.ts
-#EXTINF:-1,TIVIBU-4
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/631.ts
-#EXTINF:-1,Smart Sport 1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/91.ts
-#EXTINF:-1,Smart Sport 2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/92.ts
-#EXTINF:-1,Arena Sport 1
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/569.ts
-#EXTINF:-1,SySPORT-1 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/572.ts
-#EXTINF:-1,SySPORT-2 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/99.ts
-#EXTINF:-1,SySPORT-3 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/84.ts
-#EXTINF:-1,SySPORT-4 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/571.ts
-#EXTINF:-1,SySPORT-5 HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/86.ts
-#EXTINF:-1,Beşiktaş tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/94.ts
-#EXTINF:-1,FENERBAHÇE
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/130.ts
-#EXTINF:-1,galatasaray tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/93.ts
-#EXTINF:-1,IDMAN TV az
-http://185.56.30.204/live/idmantv.m3u8
-#EXTINF:-1,TV 8,5
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/12.ts
-#EXTINF:-1,a2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/97.ts
-#EXTINF:-1,DISCOVERY-CHANNEL
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/317.ts
-#EXTINF:-1,ANIMAL-PLANET
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/312.ts
-#EXTINF:-1,BEREKET TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/186.ts
-#EXTINF:-1,NAT GEO.PEOBLE
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/315.ts
-#EXTINF:-1,BBC EARTH
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/320.ts
-#EXTINF:-1,TRT-BELGESEL
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/322.ts
-#EXTINF:-1,WORLD TRAVEL
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/563.ts
-#EXTINF:-1,NATIONAL GEO WILD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/115.ts
-#EXTINF:-1,IZ TV HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/687.ts
-#EXTINF:-1,NATIONAL-GEOGRAPICH
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/313.ts
-#EXTINF:-1,DA-VINCI LEARNING
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/568.ts
-#EXTINF:-1,DISCOWERYCASE
-http://185.56.28.213:8000/live/kanaldestek/8A0xR8wxdE/318.ts
-#EXTINF:-1,TURKMAX GURME HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/66.ts
-#EXTINF:-1,Dizi tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/145.ts
-#EXTINF:-1,TRT-TURK
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1,TRT-WORLD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,TRT-KURDI
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1,TRT-DIYANET
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/55.ts
-#EXTINF:-1,TRT-OKUL
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/133.ts
-#EXTINF:-1,TRT-MECLIS
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/134.ts
-#EXTINF:-1,TRT-AVAZ
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/132.ts
-#EXTINF:-1,TRT-ARABIA
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/131.ts
-#EXTINF:-1,CEM TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/614.ts
-#EXTINF:-1,Pamukkale tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/185.ts
-#EXTINF:-1,Life Time
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/184.ts
-#EXTINF:-1,kanal 360
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/147.ts
-#EXTINF:-1,Denizli-DRT
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/181.ts
-#EXTINF:-1,Kanal Ben
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/76.ts
-#EXTINF:-1,EGETURK
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/81.ts
-#EXTINF:-1,Showmax tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/57.ts
-#EXTINF:-1,TV 8 - INT
-http://185.56.30.204/live/tv8int.m3u8
-#EXTINF:-1,tv 2000
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/139.ts
-#EXTINF:-1,TEK RUMELI
-http://yayin3.canlitv.com:1935/canlitv/tekrumelitv/playlist.m3u8
-#EXTINF:-1,KON-TV
-http://185.56.30.204/live/kontv.m3u8
-#EXTINF:-1,KÖY-TV
-http://185.56.28.213:8000/live/nwW7Svq2yb/sDrorl1QCD/435.ts
-#EXTINF:-1,semerkand tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/138.ts
-#EXTINF:-1,LALEGÜL TV
-http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/turkuvaz.m3u8
-#EXTINF:-1,TEVE 2
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/146.ts
-#EXTINF:-1,NTV-AVRUPA
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/144.ts
-#EXTINF:-1,Kanal 24
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/128.ts
-#EXTINF:-1,EURO-STAR
-http://185.56.30.204/live/eurostar.m3u8
-#EXTINF:-1,EURO-D
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/142.ts
-#EXTINF:-1,denizli tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/140.ts
-#EXTINF:-1,çay tv
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/148.ts
-#EXTINF:-1,360 TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/665.ts
-#EXTINF:-1,A9 TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/686.ts
-#EXTINF:-1,ADANA KOZA TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/685.ts
-#EXTINF:-1,AHI TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/684.ts
-#EXTINF:-1,AKSU TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/683.ts
-#EXTINF:-1,ALTAS TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/664.ts
-#EXTINF:-1,BALKAN TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/663.ts
-#EXTINF:-1,CIFTCI TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/662.ts
-#EXTINF:-1,CORUM TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/682.ts
-#EXTINF:-1,YABAN-TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/681.ts
-#EXTINF:-1,DRT DENIZLI
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/680.ts
-#EXTINF:-1,FLASH TV
-http://185.56.30.204/live/flashtv.m3u8
-#EXTINF:-1,KABE TV HD
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/678.ts
-#EXTINF:-1,KANAL 19
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/661.ts
-#EXTINF:-1,ANADOLU TV
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/660.ts
-#EXTINF:-1,KANAL 3
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/677.ts
-#EXTINF:-1,KANAL 33
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/659.ts
-#EXTINF:-1,KANAL 60
-http://91.215.156.13:25461/live/trkvz1234/GHjuiKK55Gsdfr/658.ts
-#EXTINF:-1,
+#EXTINF:-1,DE:group-title="Türk",Türk
+#EXTINF:-1,TR I LIG TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/49.ts
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1825.ts
+#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1824.ts
+#EXTINF:-1,TR | FILMBOX HD-D-Smart
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1821.ts
+#EXTINF:-1,TR | DSMART FX
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4663.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1827.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1820.ts
+#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1823.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX)
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1826.ts
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1822.ts
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/123.ts
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/122.ts
+#EXTINF:-1,TR | A HABER
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/96.ts
+#EXTINF:-1,TR | A HABER HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/67.ts
+#EXTINF:-1,TR | A SPOR
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/58.ts
+#EXTINF:-1,TR | A SPOR HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/95.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/114.ts
+#EXTINF:-1,TR | ATV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/93.ts
+#EXTINF:-1,TR | ATV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/66.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/56.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/65.ts
+#EXTINF:-1,TR | BLOOMBERG TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/83.ts
+#EXTINF:-1,TR | CAY TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/53.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/84.ts
+#EXTINF:-1,TR | HABER TURK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/2786.ts
+#EXTINF:-1,TR | DIZISMART PLATIN DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/107.ts
+#EXTINF:-1,TR | EGE TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/54.ts
+#EXTINF:-1,TR | FILM TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/116.ts
+#EXTINF:-1,TR | FLASH TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/55.ts
+#EXTINF:-1,TR | FOX HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/64.ts
+#EXTINF:-1,TR | FOX TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/80.ts
+#EXTINF:-1,TR | HALK TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/99.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/102.ts
+#EXTINF:-1,TR | KANAL 7
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/70.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/69.ts
+#EXTINF:-1,TR | KANAL D
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/68.ts
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/2785.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3150.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/133.ts
+#EXTINF:-1,TR | LIGTV 4 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/132.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/121.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/120.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/119.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/109.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/82.ts
+#EXTINF:-1,TR | BOOMERANG COCUK DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3105.ts
+#EXTINF:-1,TR | SMART COCUK DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3106.ts
+#EXTINF:-1,TR | MINIKA GO
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/81.ts
+#EXTINF:-1,TR | MOVIEMAX ACTION 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/108.ts
+#EXTINF:-1,TR | DIZI TV HD FILBOX
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/106.ts
+#EXTINF:-1,TR | MOVIEMAX COMEDY HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/104.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/111.ts
+#EXTINF:-1,TR I NAT?ONAL GEOPRAFIC HD ( DIGITURK )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/105.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/110.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/130.ts
+#EXTINF:-1,TR | MOVIEMAX STARS HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/112.ts
+#EXTINF:-1,TR | MOVIEMAX TURK HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/117.ts
+#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/118.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/2787.ts
+#EXTINF:-1,TR I History HD TR ( DIGITURK )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/101.ts
+#EXTINF:-1,TR | BBC Earth HD-dsmart
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/100.ts
+#EXTINF:-1,TR | NBA TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/89.ts
+#EXTINF:-1,TR | NTV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/98.ts
+#EXTINF:-1,TR | NTV SPOR
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/78.ts
+#EXTINF:-1,TR | NTV SPOR HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/97.ts
+#EXTINF:-1,TR | NUMBER ONE
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/51.ts
+#EXTINF:-1,TR | POWERTURK HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4657.ts
+#EXTINF:-1,TR | KRAL TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4658.ts
+#EXTINF:-1,TR | SALON 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/129.ts
+#EXTINF:-1,TR | SALON 2  HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/128.ts
+#EXTINF:-1,TR | SALON 3 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/127.ts
+#EXTINF:-1,TR I SALON 3D HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3108.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/103.ts
+#EXTINF:-1,TR | SHOW TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/90.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/63.ts
+#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/113.ts
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/86.ts
+#EXTINF:-1,TR | STAR TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/91.ts
+#EXTINF:-1,TR | STAR TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/62.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/87.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/126.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/125.ts
+#EXTINF:-1,TR | TIVIBU SPOR HD 2
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/88.ts
+#EXTINF:-1,AR | BEIN SPORT 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3195.ts
+#EXTINF:-1,AR | BEIN SPORT 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3196.ts
+#EXTINF:-1,TR | TLC
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/74.ts
+#EXTINF:-1,TR | TRT 1
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/94.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/77.ts
+#EXTINF:-1,TR | TRT 3 SPOR
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/61.ts
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/71.ts
+#EXTINF:-1,TR | TRT COCUK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/73.ts
+#EXTINF:-1,TR | TRT HABER
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/72.ts
+#EXTINF:-1,TR | TRT MUZIK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/57.ts
+#EXTINF:-1,TR | TRT SPOR
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/76.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/60.ts
+#EXTINF:-1,TR | TV 2
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/75.ts
+#EXTINF:-1,TR | TV8
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/92.ts
+#EXTINF:-1,TR | TV8 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/59.ts
+#EXTINF:-1,TR | TV8.5
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/3107.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/115.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/131.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/124.ts
+#EXTINF:-1,TR | YABAN TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/50.ts
+#EXTINF:-1,TR | VIVA TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1841.ts
+#EXTINF:-1,TR | SPORTS TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1834.ts
+#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1831.ts
+#EXTINF:-1,TR | Sinetivi HD FILBOX
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1832.ts
+#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1842.ts
+#EXTINF:-1,TR | SEMERKAND TV HD
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1843.ts
+#EXTINF:-1,TR | PLANET TURK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1844.ts
+#EXTINF:-1,TR | PLANET PEMBE
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1845.ts
+#EXTINF:-1,TR | PLANET MUTFAK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1846.ts
+#EXTINF:-1,TR | PLANET COCUK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1847.ts
+#EXTINF:-1,TR | NUMBER ONE TURK
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1849.ts
+#EXTINF:-1,TR | National Geographic Wild
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1837.ts
+#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1833.ts
+#EXTINF:-1,TR | Movie Platin 2 HD DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1838.ts
+#EXTINF:-1,TR | MOVIE GOLD DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1830.ts
+#EXTINF:-1,TR | MOVIE FAMILY DSMART
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1829.ts
+#EXTINF:-1,TR | KANAL CAY
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1848.ts
+#EXTINF:-1,TR | GS TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1840.ts
+#EXTINF:-1,TR | FB TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1835.ts
+#EXTINF:-1,TR | BJK TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/2775.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1839.ts
+#EXTINF:-1,TR | BABY TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1828.ts
+#EXTINF:-1,TR | Animal Planet
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/1836.ts
+#EXTINF:-1,TR | ULUSAL TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4261.ts
+#EXTINF:-1,TR | TRT KURDI
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4264.ts
+#EXTINF:-1,TR | MELTEM TV
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4262.ts
+#EXTINF:-1,TR | IZ TV ( DIJITURK )
+http://sutverduz.com:8080/live/yLatQYW4KM/WviIOlHzcG/4259.ts
+#EXTINF:-1,TR | IP Mutfak
+http://sutverduz.com:8080/live/yLatQY
