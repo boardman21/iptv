@@ -1,2303 +1,1308 @@
-#EXTM3U
-#EXTINF:-1,SOCCER TIME HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1176.m3u8
-#EXTINF:-1,VIP LIG TV 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2381.m3u8
-#EXTINF:-1,VIP LIG TV 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2382.m3u8
-#EXTINF:-1,VIP LIG TV 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2383.m3u8
-#EXTINF:-1,VIP LIG TV 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2384.m3u8
-#EXTINF:-1,VIP TVBUSPOR 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2385.m3u8
-#EXTINF:-1,VIP TVBUSPOR 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2386.m3u8
-#EXTINF:-1,VIP TVBUSPOR 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2387.m3u8
-#EXTINF:-1,VIP TVBUSPOR 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2388.m3u8
-#EXTINF:-1,LIG TV 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/15.m3u8
-#EXTINF:-1,LIG TV 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/16.m3u8
-#EXTINF:-1,LIG TV 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/18.m3u8
-#EXTINF:-1,LIG TV 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1451.m3u8
-#EXTINF:-1,TVBU SPOR 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/26.m3u8
-#EXTINF:-1,TVBU SPOR 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/27.m3u8
-#EXTINF:-1,TVBU SPOR 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1101.m3u8
-#EXTINF:-1,TVBU SPOR 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1102.m3u8
-#EXTINF:-1,SMARm3u8POR HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/29.m3u8
-#EXTINF:-1,SMARm3u8POR 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/30.m3u8
-#EXTINF:-1,SALON1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/39.m3u8
-#EXTINF:-1,SALON2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/40.m3u8
-#EXTINF:-1,SALON3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/41.m3u8
-#EXTINF:-1,LOCA 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/60.m3u8
-#EXTINF:-1,LOCA 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/61.m3u8
-#EXTINF:-1,LOCA 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/64.m3u8
-#EXTINF:-1,VIP CHANNEL 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/44.m3u8
-#EXTINF:-1,VIP CHANNEL  2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/45.m3u8
-#EXTINF:-1,CINESTAR VIZYON 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/83.m3u8
-#EXTINF:-1,CINESTAR VIZYON 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/84.m3u8
-#EXTINF:-1,FILMBOXHD PREMIER
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/86.m3u8
-#EXTINF:-1,FILMBOXHD PREMIER2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/87.m3u8
-#EXTINF:-1,FILMBOXHD AKSIYON
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/88.m3u8
-#EXTINF:-1,FILMBOXHD AKSIYON 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/89.m3u8
-#EXTINF:-1,FILMBOXHD FANTASTIK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/90.m3u8
-#EXTINF:-1,FILMBOXHD OSCARS
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/92.m3u8
-#EXTINF:-1,SINEMA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/91.m3u8
-#EXTINF:-1,SINEMA TV AKSİYON
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1293.m3u8
-#EXTINF:-1,TR:SİNETİVİ HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2178.m3u8
-#EXTINF:-1,MOVIESMART PLATIN 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2179.m3u8
-#EXTINF:-1,MOVIESMART PREMIUM 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2180.m3u8
-#EXTINF:-1,Sinema Tv 1001 Canli
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1294.m3u8
-#EXTINF:-1,Sinema Tv Aile Canli
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1295.m3u8
-#EXTINF:-1,Sinema Tv 2 / DIZITV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1296.m3u8
-#EXTINF:-1,+++++TR ULUSAL+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/97.m3u8
-#EXTINF:-1,TRT1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/101.m3u8
-#EXTINF:-1,KANAL D
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/116.m3u8
-#EXTINF:-1,ATV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/131.m3u8
-#EXTINF:-1,A2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2428.m3u8
-#EXTINF:-1,STARTV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/132.m3u8
-#EXTINF:-1,SHOW TV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/120.m3u8
-#EXTINF:-1,FOXTV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/144.m3u8
-#EXTINF:-1,TV8 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/147.m3u8
-#EXTINF:-1,TV 8,5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2427.m3u8
-#EXTINF:-1,TV2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/149.m3u8
-#EXTINF:-1,TLC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/416.m3u8
-#EXTINF:-1,SHOWMAX
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/137.m3u8
-#EXTINF:-1,KANAL7 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/167.m3u8
-#EXTINF:-1,TV 8.5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/170.m3u8
-#EXTINF:-1,FX
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/449.m3u8
-#EXTINF:-1,FOX CRIME TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/152.m3u8
-#EXTINF:-1,FOX LIFE TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/150.m3u8
-#EXTINF:-1,TURKMAX GURME HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/825.m3u8
-#EXTINF:-1,DİZİMAX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/80.m3u8
-#EXTINF:-1,FİL TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/157.m3u8
-#EXTINF:-1,BEYAZ TV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/172.m3u8
-#EXTINF:-1,FLASH TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/162.m3u8
-#EXTINF:-1,TVNET
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/183.m3u8
-#EXTINF:-1,TVEM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/184.m3u8
-#EXTINF:-1,ULUSAL KANAL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/175.m3u8
-#EXTINF:-1,HALK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/174.m3u8
-#EXTINF:-1,CEM TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1848.m3u8
-#EXTINF:-1,YOL TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1849.m3u8
-#EXTINF:-1,ULKE TV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/179.m3u8
-#EXTINF:-1,BENGUTURK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/182.m3u8
-#EXTINF:-1,UCANKUŞ TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/173.m3u8
-#EXTINF:-1,TARIMTÜRK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/707.m3u8
-#EXTINF:-1,İSTANBULTV1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/418.m3u8
-#EXTINF:-1,PLANET TURK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/251.m3u8
-#EXTINF:-1,PLANET PEMBE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/253.m3u8
-#EXTINF:-1,PLANET MUTFAK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/252.m3u8
-#EXTINF:-1,AKILLI TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1098.m3u8
-#EXTINF:-1,BALKAN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/417.m3u8
-#EXTINF:-1,+++++TR HABER+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/176.m3u8
-#EXTINF:-1,CNN TÜRK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/177.m3u8
-#EXTINF:-1,A HABER
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/188.m3u8
-#EXTINF:-1,NTV HABER
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/186.m3u8
-#EXTINF:-1,HABERTÜRK HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/180.m3u8
-#EXTINF:-1,TRT HABER HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/103.m3u8
-#EXTINF:-1,TRT WORLD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/102.m3u8
-#EXTINF:-1,KANAL 24
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/187.m3u8
-#EXTINF:-1,BLOOMBERG HT HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/189.m3u8
-#EXTINF:-1,SKY360
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/185.m3u8
-#EXTINF:-1,DHA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/181.m3u8
-#EXTINF:-1,+++++TR SPOR+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/190.m3u8
-#EXTINF:-1,BJK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/204.m3u8
-#EXTINF:-1,FENERBAHCE TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/203.m3u8
-#EXTINF:-1,GALATASARAY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/201.m3u8
-#EXTINF:-1,BURSASPOR TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/205.m3u8
-#EXTINF:-1,EUROSPORT 1 HD (TÜRKÇE)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/191.m3u8
-#EXTINF:-1,EUROSPORT 2 HD (TÜRKÇE)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/192.m3u8
-#EXTINF:-1,A SPOR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/195.m3u8
-#EXTINF:-1,NTV SPOR HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/194.m3u8
-#EXTINF:-1,TRT SPOR HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/104.m3u8
-#EXTINF:-1,SPORT TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/197.m3u8
-#EXTINF:-1,IDMAN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/198.m3u8
-#EXTINF:-1,FANATİK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/196.m3u8
-#EXTINF:-1,TJK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/199.m3u8
-#EXTINF:-1,TAY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/200.m3u8
-#EXTINF:-1,+++++TR BELGESEL+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/223.m3u8
-#EXTINF:-1,TR: DOCUBOX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2176.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/226.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/225.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/227.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/229.m3u8
-#EXTINF:-1,NATIONAL GEO PEOPLE HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/228.m3u8
-#EXTINF:-1,DAVINCI LEARNING
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/233.m3u8
-#EXTINF:-1,ANIMAL PLANET TR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/830.m3u8
-#EXTINF:-1,HISTORY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/234.m3u8
-#EXTINF:-1,TRT BELGESEL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/106.m3u8
-#EXTINF:-1,NUHBABA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/242.m3u8
-#EXTINF:-1,IZ TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/235.m3u8
-#EXTINF:-1,NASA LIVE HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2358.m3u8
-#EXTINF:-1,YABAN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/238.m3u8
-#EXTINF:-1,AV TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/239.m3u8
-#EXTINF:-1,World Travel Channel
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/240.m3u8
-#EXTINF:-1,TGRT BELGESEL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/247.m3u8
-#EXTINF:-1,YAT TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/419.m3u8
-#EXTINF:-1,TARIM TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/241.m3u8
-#EXTINF:-1,KOY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/243.m3u8
-#EXTINF:-1,ZIRAAT TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/254.m3u8
-#EXTINF:-1,BEREKET TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/708.m3u8
-#EXTINF:-1,CİFTCİ TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/706.m3u8
-#EXTINF:-1,+++++TR COCUK+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/255.m3u8
-#EXTINF:-1,TRT ÇOCUK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/105.m3u8
-#EXTINF:-1,CARTON NETWORK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/261.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1190.m3u8
-#EXTINF:-1,DİSNEY KANAL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/259.m3u8
-#EXTINF:-1,BABY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/827.m3u8
-#EXTINF:-1,MİNİKA COCUK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/256.m3u8
-#EXTINF:-1,MİNİKA GO
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/260.m3u8
-#EXTINF:-1,TV4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/262.m3u8
-#EXTINF:-1,+++++TR MÜZİK+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/263.m3u8
-#EXTINF:-1,LIVE RADYO TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2315.m3u8
-#EXTINF:-1,KRAL WORLD TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2355.m3u8
-#EXTINF:-1,KRAL POP TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2354.m3u8
-#EXTINF:-1,KRAL POP FM TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2353.m3u8
-#EXTINF:-1,KRAL POP AKUSTIK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2352.m3u8
-#EXTINF:-1,KRAL FM TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2351.m3u8
-#EXTINF:-1,KRAL FM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1305.m3u8
-#EXTINF:-1,TRT MÜZİK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/108.m3u8
-#EXTINF:-1,MAVİ KARADENİZ TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1103.m3u8
-#EXTINF:-1,POWERTURK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/266.m3u8
-#EXTINF:-1,DREAMTÜRK TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/264.m3u8
-#EXTINF:-1,KRAL TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/265.m3u8
-#EXTINF:-1,NR1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/267.m3u8
-#EXTINF:-1,ONE BY UHD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/381.m3u8
-#EXTINF:-1,TRT AVAZ
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/111.m3u8
-#EXTINF:-1,FASHION ONE TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/424.m3u8
-#EXTINF:-1,+++++TR SİNEMA KANALLARI+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/966.m3u8
-#EXTINF:-1,SALON1_HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/967.m3u8
-#EXTINF:-1,SALON1_3D
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/968.m3u8
-#EXTINF:-1,SALON2_HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/969.m3u8
-#EXTINF:-1,SALON2_3D
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/970.m3u8
-#EXTINF:-1,SALON3_HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/971.m3u8
-#EXTINF:-1,SALON3_3D
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/972.m3u8
-#EXTINF:-1,SALON 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/913.m3u8
-#EXTINF:-1,SALON 5 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/914.m3u8
-#EXTINF:-1,SALON 6 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/915.m3u8
-#EXTINF:-1,SALON 7 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/916.m3u8
-#EXTINF:-1,SALON 8 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/917.m3u8
-#EXTINF:-1,SALON 9 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/918.m3u8
-#EXTINF:-1,SALON 10 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/919.m3u8
-#EXTINF:-1,TR:TURKBOXTURK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1292.m3u8
-#EXTINF:-1,TR:TURKBOXPREMIUM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1290.m3u8
-#EXTINF:-1,TR:TURKBOXMACERA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1289.m3u8
-#EXTINF:-1,TR:TURKBOXGERMANY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1288.m3u8
-#EXTINF:-1,TR:TURKBOXGERILIM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1287.m3u8
-#EXTINF:-1,TR:TURKBOXCOMEDY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1286.m3u8
-#EXTINF:-1,TR:TURKBOXCLASSIC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1285.m3u8
-#EXTINF:-1,TR:TURKBOXAILE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1284.m3u8
-#EXTINF:-1,TR:TURKBOXACTION
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1291.m3u8
-#EXTINF:-1,CINEBOX 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/51.m3u8
-#EXTINF:-1,CINEBOX 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/53.m3u8
-#EXTINF:-1,CINEBOX 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/54.m3u8
-#EXTINF:-1,CİNESTAR  TÜRK 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/444.m3u8
-#EXTINF:-1,CİNESTAR  TÜRK 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/445.m3u8
-#EXTINF:-1,CINESTAR  YESİLCAM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/446.m3u8
-#EXTINF:-1,SINETIVI_HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1046.m3u8
-#EXTINF:-1,SINETIVI_2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1047.m3u8
-#EXTINF:-1,SINETIVI_ADRENALIN
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1048.m3u8
-#EXTINF:-1,SINETIVI_ADRENALIN_2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1049.m3u8
-#EXTINF:-1,MOVIESMART_GOLD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1055.m3u8
-#EXTINF:-1,MOVIESMART_PLATIN
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1056.m3u8
-#EXTINF:-1,MOVIESMART_ACTION
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1053.m3u8
-#EXTINF:-1,MOVIESMART_FAMILY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1054.m3u8
-#EXTINF:-1,MOVIESMART FEST HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1057.m3u8
-#EXTINF:-1,MOVIESMART TURK HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1060.m3u8
-#EXTINF:-1,MOVIESMART CLASSIC HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1058.m3u8
-#EXTINF:-1,MOVIESMART PREMIUM HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1059.m3u8
-#EXTINF:-1,+++++DE+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/344.m3u8
-#EXTINF:-1,DE: SAT 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/335.m3u8
-#EXTINF:-1,DE: RTL HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1297.m3u8
-#EXTINF:-1,DE: RTL 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/333.m3u8
-#EXTINF:-1,DE: RTL PASSION HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/305.m3u8
-#EXTINF:-1,DE: RTL NITRO
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/304.m3u8
-#EXTINF:-1,DE: RTL CRIME
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/303.m3u8
-#EXTINF:-1,DE: ProSieben HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1002.m3u8
-#EXTINF:-1,DE: ProSieben Maxx
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1004.m3u8
-#EXTINF:-1,DE: KABEL 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/301.m3u8
-#EXTINF:-1,DE: VOX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/300.m3u8
-#EXTINF:-1,DE: SIXX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/315.m3u8
-#EXTINF:-1,DE: SONY TV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/307.m3u8
-#EXTINF:-1,DE: Kinowelt HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1005.m3u8
-#EXTINF:-1,DE: N24 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/287.m3u8
-#EXTINF:-1,DE: SUPER RTL HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/294.m3u8
-#EXTINF:-1,DE: KIKA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/293.m3u8
-#EXTINF:-1,------- Sky Deum3u8chland -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/994.m3u8
-#EXTINF:-1,DE: SKY CINEMA HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/331.m3u8
-#EXTINF:-1,DE: SKY CINEMA 24 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/330.m3u8
-#EXTINF:-1,DE: SKY HIm3u8 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/317.m3u8
-#EXTINF:-1,DE: SKY ACTION HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/323.m3u8
-#EXTINF:-1,DE: SKY KRIMI HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/320.m3u8
-#EXTINF:-1,DE: SKY COMEDY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/321.m3u8
-#EXTINF:-1,DE: SKY EMOTION HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/322.m3u8
-#EXTINF:-1,DE: SKY NOSTALGIE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/318.m3u8
-#EXTINF:-1,DE: SKY ATLANTIC HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/324.m3u8
-#EXTINF:-1,DE: Sky Atlantic  1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1009.m3u8
-#EXTINF:-1,DE: SYFY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/319.m3u8
-#EXTINF:-1,DE: MGM HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/311.m3u8
-#EXTINF:-1,------- Sky Kinder -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/995.m3u8
-#EXTINF:-1,DE: JUNIOR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/289.m3u8
-#EXTINF:-1,DE: Sky Disney Cinemagic HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1010.m3u8
-#EXTINF:-1,DE: DISNEY CHANNEL
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/290.m3u8
-#EXTINF:-1,DE: DISNEY XD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/292.m3u8
-#EXTINF:-1,------- SKY Unterhaltung -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/996.m3u8
-#EXTINF:-1,DE: 13 STREET HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/314.m3u8
-#EXTINF:-1,DE: SKY AXN HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/316.m3u8
-#EXTINF:-1,DE: TNT SERIE HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/312.m3u8
-#EXTINF:-1,DE: TNT FILM HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/313.m3u8
-#EXTINF:-1,DE: FOX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/310.m3u8
-#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/308.m3u8
-#EXTINF:-1,------- Sky Kultur -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/997.m3u8
-#EXTINF:-1,DE: DISCOVERY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/281.m3u8
-#EXTINF:-1,DE: HISTORY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/282.m3u8
-#EXTINF:-1,DE: SKY NAT GEO HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/283.m3u8
-#EXTINF:-1,DE: SKY NAT GEO WILD HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/284.m3u8
-#EXTINF:-1,DE: National Geographic People HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1011.m3u8
-#EXTINF:-1,DE: Sky Animal Planet HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1012.m3u8
-#EXTINF:-1,DE: SKY DMAX HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/285.m3u8
-#EXTINF:-1,------- SKY Select -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/999.m3u8
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/329.m3u8
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/328.m3u8
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/327.m3u8
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/326.m3u8
-#EXTINF:-1,DE: SKY SELECT 5 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/325.m3u8
-#EXTINF:-1,DE: SKY SELECT 6
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1185.m3u8
-#EXTINF:-1,DE: SKY SELECT 7 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1186.m3u8
-#EXTINF:-1,DE: SKY SELECT 8
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1187.m3u8
-#EXTINF:-1,DE: SKY SELECT 9
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1188.m3u8
-#EXTINF:-1,DE: SKY SELECT 10
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1189.m3u8
-#EXTINF:-1,------- Österreich -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1000.m3u8
-#EXTINF:-1,DE: ORF 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/298.m3u8
-#EXTINF:-1,DE: ORF 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/297.m3u8
-#EXTINF:-1,DE: ARD HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/337.m3u8
-#EXTINF:-1,DE: ZDF HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/336.m3u8
-#EXTINF:-1,DE: WDR HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/296.m3u8
-#EXTINF:-1,DE: PRO 7 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/332.m3u8
-#EXTINF:-1,DE: SKY CINEMAGIC 24h
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/291.m3u8
-#EXTINF:-1,DE: TAGESSCHAU 24 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/288.m3u8
-#EXTINF:-1,DE: N-TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/286.m3u8
-#EXTINF:-1,------- Schweiz -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1013.m3u8
-#EXTINF:-1,[CH] TELECLUB STAR HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/798.m3u8
-#EXTINF:-1,[CH] TELECLUB STAR SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/797.m3u8
-#EXTINF:-1,[CH] TELECLUB SKY SPORT 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/804.m3u8
-#EXTINF:-1,[CH] TELECLUB SKY SPORT 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/803.m3u8
-#EXTINF:-1,[CH] TELECLUB SKY SPORT 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/802.m3u8
-#EXTINF:-1,[CH] TELECLUB SPORT 1 SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/801.m3u8
-#EXTINF:-1,[CH] TELECLUB SPORT 2 SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/800.m3u8
-#EXTINF:-1,[CH] TELECLUB SPORT 3 SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/799.m3u8
-#EXTINF:-1,[CH] TELECLUB PRIME HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/806.m3u8
-#EXTINF:-1,TELECLUB CINEMA HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/808.m3u8
-#EXTINF:-1,[CH] TELECLUB PRIME SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/805.m3u8
-#EXTINF:-1,[CH] TELECLUB CINEMA SD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/807.m3u8
-#EXTINF:-1,CH:TELECLUB PRIME (ydk)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1020.m3u8
-#EXTINF:-1,CH:TELECLUB STAR (ydk)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1022.m3u8
-#EXTINF:-1,CH:TELECLUB CINEMA (ydk)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1021.m3u8
-#EXTINF:-1,CH:TELECLUB SPORT 1 (ydk)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1023.m3u8
-#EXTINF:-1,CH_SRF 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/864.m3u8
-#EXTINF:-1,CH:SRF 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1014.m3u8
-#EXTINF:-1,CH:TELEBIELINGUE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/866.m3u8
-#EXTINF:-1,CH:TELEBAERN
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/867.m3u8
-#EXTINF:-1,CH:TELE ZURICH
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/868.m3u8
-#EXTINF:-1,CH:TVO
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/865.m3u8
-#EXTINF:-1,CH:KANAL 9
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/870.m3u8
-#EXTINF:-1,+++++ITALIAN+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/442.m3u8
-#EXTINF:-1,IT:Rai 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/425.m3u8
-#EXTINF:-1,IT:Rai 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/426.m3u8
-#EXTINF:-1,IT:Rai 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/427.m3u8
-#EXTINF:-1,IT:Rai 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/428.m3u8
-#EXTINF:-1,IT:RaiGulp
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/431.m3u8
-#EXTINF:-1,IT:Rai Premium
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/430.m3u8
-#EXTINF:-1,IT:Rai News
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/432.m3u8
-#EXTINF:-1,IT:Rai Movie
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/429.m3u8
-#EXTINF:-1,IT:La7
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/433.m3u8
-#EXTINF:-1,IT-AnimalPlanet
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1175.m3u8
-#EXTINF:-1,+++++UK+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/488.m3u8
-#EXTINF:-1,UK: Sky Movies Comedy
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/462.m3u8
-#EXTINF:-1,UK: Sky Movies Action & Adventure HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/463.m3u8
-#EXTINF:-1,UK: Sky Atlantic HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/464.m3u8
-#EXTINF:-1,UK: Sky One HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/457.m3u8
-#EXTINF:-1,UK: Sky Movies Select HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/458.m3u8
-#EXTINF:-1,UK: Sky Movies Gream3u8 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/459.m3u8
-#EXTINF:-1,UK: Sky Movies Family HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/460.m3u8
-#EXTINF:-1,UK: Sky Movies Crime & Thriller HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/461.m3u8
-#EXTINF:-1,UK: ITV 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/487.m3u8
-#EXTINF:-1,UK: National Geographic UK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/470.m3u8
-#EXTINF:-1,UK: Nat Geo Wild UK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/471.m3u8
-#EXTINF:-1,UK: MTV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/472.m3u8
-#EXTINF:-1,UK: Disney Channel
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/478.m3u8
-#EXTINF:-1,UK-ANIMAL-PLANET
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/479.m3u8
-#EXTINF:-1,UK: Discovery History
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/480.m3u8
-#EXTINF:-1,UK: Discovery
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/481.m3u8
-#EXTINF:-1,UK: ITV 4:
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/484.m3u8
-#EXTINF:-1,UK: ITV 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/485.m3u8
-#EXTINF:-1,UK: Box Nation
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1110.m3u8
-#EXTINF:-1,UK: BBC TOW
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/454.m3u8
-#EXTINF:-1,UK: BBC THREE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/455.m3u8
-#EXTINF:-1,UK: BBC ONE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/453.m3u8
-#EXTINF:-1,UK: BBC FOUR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/456.m3u8
-#EXTINF:-1,+++++WORLD SPOR+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/993.m3u8
-#EXTINF:-1,------- SKY Sport -------
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/998.m3u8
-#EXTINF:-1,DE: SKY SPORT NEWS HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/279.m3u8
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/276.m3u8
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/275.m3u8
-#EXTINF:-1,DE: SPORT1+ HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/277.m3u8
-#EXTINF:-1,DE: SKY SPORT AUSTRIA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/269.m3u8
-#EXTINF:-1,DE: SKY BL 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/274.m3u8
-#EXTINF:-1,DE: SKY BL 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/273.m3u8
-#EXTINF:-1,DE:SKY BL 3 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1177.m3u8
-#EXTINF:-1,DE:SKY BL 4 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1178.m3u8
-#EXTINF:-1,DE:SKY BL 5 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1179.m3u8
-#EXTINF:-1,DE:SKY BL 6 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1180.m3u8
-#EXTINF:-1,DE:SKY BL 7 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1181.m3u8
-#EXTINF:-1,DE:SKY BL 8 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1182.m3u8
-#EXTINF:-1,DE:SKY BL 9 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1183.m3u8
-#EXTINF:-1,DE:SKY BL 10 HD (Matchday)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1184.m3u8
-#EXTINF:-1,DE: Eurosport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1208.m3u8
-#EXTINF:-1,ANN7 Sport
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1097.m3u8
-#EXTINF:-1,AZ:CBC SPORT
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1062.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 F1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1096.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1283.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1092.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 3 UK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1093.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 4 UK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1094.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1095.m3u8
-#EXTINF:-1,UK: Motors UK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/473.m3u8
-#EXTINF:-1,UK: Premier Sporm3u8
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/469.m3u8
-#EXTINF:-1,UK: Eurosport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/476.m3u8
-#EXTINF:-1,UK: Euro Sporm3u8 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1105.m3u8
-#EXTINF:-1,UK: Sky Sporm3u8 News HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1104.m3u8
-#EXTINF:-1,UK: ESPN HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1106.m3u8
-#EXTINF:-1,UK: ITV 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/486.m3u8
-#EXTINF:-1,UK: BT Sport Europe HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1109.m3u8
-#EXTINF:-1,UK: BT Sport 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1107.m3u8
-#EXTINF:-1,UK: BT Sport 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1108.m3u8
-#EXTINF:-1,+++++AR BEİNSPORT+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/379.m3u8
-#EXTINF:-1,BEINSPORT HD1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/377.m3u8
-#EXTINF:-1,BEINSPORT HD2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/376.m3u8
-#EXTINF:-1,BEINSPORT HD3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/375.m3u8
-#EXTINF:-1,BEINSPORT HD4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/374.m3u8
-#EXTINF:-1,BEINSPORT HD5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/373.m3u8
-#EXTINF:-1,BEINSPORT HD6
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/372.m3u8
-#EXTINF:-1,BEINSPORT HD7
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/371.m3u8
-#EXTINF:-1,BEINSPORT HD8
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/370.m3u8
-#EXTINF:-1,BEINSPORT HD9
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/369.m3u8
-#EXTINF:-1,BEINSPORT HD10
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/368.m3u8
-#EXTINF:-1,BEINSPORT HD11
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/367.m3u8
-#EXTINF:-1,ES: Canal+ Futbol
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1221.m3u8
-#EXTINF:-1,ES: Canal+ Liga
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1219.m3u8
-#EXTINF:-1,ES: Canal+ Liga 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1220.m3u8
-#EXTINF:-1,ES: REAL MADRID TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1222.m3u8
-#EXTINF:-1,FR: Canal+ Sport
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1243.m3u8
-#EXTINF:-1,IT: Rai Sport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1223.m3u8
-#EXTINF:-1,IT: Rai Sport 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1227.m3u8
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1228.m3u8
-#EXTINF:-1,IT: Rai Sport 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1224.m3u8
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1229.m3u8
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1230.m3u8
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1226.m3u8
-#EXTINF:-1,IT: Sky Sport F1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1225.m3u8
-#EXTINF:-1,+++++NL+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/378.m3u8
-#EXTINF:-1,NL: Fox Sporm3u8 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1246.m3u8
-#EXTINF:-1,NL: Fox Sporm3u8 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1247.m3u8
-#EXTINF:-1,NL: FOX SPORm3u8 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1407.m3u8
-#EXTINF:-1,NL: FOX SPORm3u8 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1408.m3u8
-#EXTINF:-1,NL: FOX SPORm3u8 5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1409.m3u8
-#EXTINF:-1,PT: Sport TV 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1216.m3u8
-#EXTINF:-1,PT: Sport TV 5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1217.m3u8
-#EXTINF:-1,PT: Sport TV1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1210.m3u8
-#EXTINF:-1,PT: Sport TV2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1211.m3u8
-#EXTINF:-1,PT: Sport TV3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1212.m3u8
-#EXTINF:-1,PT: Sporting TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1218.m3u8
-#EXTINF:-1,SE: TV3 Sport 1 DK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1241.m3u8
-#EXTINF:-1,SE: TV3 Sport 2 DK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1242.m3u8
-#EXTINF:-1,SE: VIASAT Sport
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1240.m3u8
-#EXTINF:-1,USA: FOX Sport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1239.m3u8
-#EXTINF:-1,USA: FOX SPORT 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1116.m3u8
-#EXTINF:-1,USA: FOX SPORT 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1117.m3u8
-#EXTINF:-1,USA: m3u8N1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1111.m3u8
-#EXTINF:-1,USA: m3u8N2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1112.m3u8
-#EXTINF:-1,USA: m3u8N 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1113.m3u8
-#EXTINF:-1,USA: m3u8N 5 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1115.m3u8
-#EXTINF:-1,USA: m3u8N 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1114.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1118.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1119.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1120.m3u8
-#EXTINF:-1,USA: ASTRO SPORT 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1121.m3u8
-#EXTINF:-1,EX-YU : SPORT KLUB 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1274.m3u8
-#EXTINF:-1,EX-YU : SPORT KLUB 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1275.m3u8
-#EXTINF:-1,EX-YU : SPORT KLUB 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1276.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 1 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1269.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 2 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1266.m3u8
-#EXTINF:-1,EX-YU: Sport Klub 3 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1267.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 1 SRB
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1277.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 2 SRB
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1278.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 3 SRB
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1279.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 4 SRB
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1280.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 5 SRB
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1281.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 1 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1268.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 2 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1270.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 3 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1272.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 4 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1271.m3u8
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1273.m3u8
-#EXTINF:-1,EX-YU : Sportal TV HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1282.m3u8
-#EXTINF:-1,+++++ALBANİA+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/585.m3u8
-#EXTINF:-1,AL: SuperSport Kosova
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1201.m3u8
-#EXTINF:-1,AL: Kujtesa Sport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1202.m3u8
-#EXTINF:-1,AL: Kujtesa Sport 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1203.m3u8
-#EXTINF:-1,AL: Sport Kosova 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1200.m3u8
-#EXTINF:-1,AL: Super Sport 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1191.m3u8
-#EXTINF:-1,AL : Super Sport 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1192.m3u8
-#EXTINF:-1,AL: Super Sport 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1193.m3u8
-#EXTINF:-1,AL: Super Sport 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1194.m3u8
-#EXTINF:-1,AL: Super Sport 5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1199.m3u8
-#EXTINF:-1,AL: Tring Sport 1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1204.m3u8
-#EXTINF:-1,AL: Tring Sport 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1205.m3u8
-#EXTINF:-1,AL: Tring Sport 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1206.m3u8
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1207.m3u8
-#EXTINF:-1,+++++RU TV+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/382.m3u8
-#EXTINF:-1,RU:NTV FUTBOL 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1064.m3u8
-#EXTINF:-1,RU:NTV FUTBOL 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1065.m3u8
-#EXTINF:-1,RU:NTV FUTBOL 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1066.m3u8
-#EXTINF:-1,RU:CTC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/385.m3u8
-#EXTINF:-1,RU:ТВU
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/402.m3u8
-#EXTINF:-1,RU: Россия 24 (RUSYA 24)
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/387.m3u8
-#EXTINF:-1,RU:DOMASHNİY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/390.m3u8
-#EXTINF:-1,RU: СМОТРИ МАТЧ ТВ ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/409.m3u8
-#EXTINF:-1,RU: СМОТРИ ЗВЕЗДА ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/410.m3u8
-#EXTINF:-1,RU: U TV Russia
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/401.m3u8
-#EXTINF:-1,RU: TV1000 PREMIUM HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/399.m3u8
-#EXTINF:-1,RU: Discovery Channel HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/404.m3u8
-#EXTINF:-1,RU: TV 1000 ACTION
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/394.m3u8
-#EXTINF:-1,RU: THT
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/384.m3u8
-#EXTINF:-1,RU: PREMIERA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/398.m3u8
-#EXTINF:-1,RU: Shanson TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/392.m3u8
-#EXTINF:-1,RU:СМОТРИ ПЯТНИЦА ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/411.m3u8
-#EXTINF:-1,RU: СМОТРИ РЕН ТВ ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/413.m3u8
-#EXTINF:-1,RU: RU TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/393.m3u8
-#EXTINF:-1,RU: PERVİY TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/386.m3u8
-#EXTINF:-1,RU: ntv
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/388.m3u8
-#EXTINF:-1,RU:СМОТРИ ОТР ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/414.m3u8
-#EXTINF:-1,RU: ID TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/421.m3u8
-#EXTINF:-1,RU: NATIONAL GEOGRAPHIC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/407.m3u8
-#EXTINF:-1,RU: AMEDIA 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/389.m3u8
-#EXTINF:-1,RU:СМОТРИ Ю ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/415.m3u8
-#EXTINF:-1,RU: TV1000 MEGAHIT HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/396.m3u8
-#EXTINF:-1,RU: REN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/383.m3u8
-#EXTINF:-1,RU: TV1000 COMEDY HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/395.m3u8
-#EXTINF:-1,RU: DOM KINO RUSSİA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/408.m3u8
-#EXTINF:-1,RU: DISNEY KANAL RU
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/397.m3u8
-#EXTINF:-1,RU: Discovery Science HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/405.m3u8
-#EXTINF:-1,RU: ANIMAL PLANET
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/406.m3u8
-#EXTINF:-1,RU: AMEDİA PREMİNYUM HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/391.m3u8
-#EXTINF:-1,RU: 5 KANAL RU
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/403.m3u8
-#EXTINF:-1,RU:СМОТРИ РОССИЯ К ОНЛАЙН
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/412.m3u8
-#EXTINF:-1,+++++EX-YOU+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1401.m3u8
-#EXTINF:-1,(EX-YOU):RTL HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1378.m3u8
-#EXTINF:-1,(EX-YOU):RTRS
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1379.m3u8
-#EXTINF:-1,(EX-YOU):RS1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1377.m3u8
-#EXTINF:-1,(EX-YOU):Rm3u82
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1376.m3u8
-#EXTINF:-1,(EX-YOU):PINK WESTERN
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1380.m3u8
-#EXTINF:-1,(EX-YOU):PINK THRILLER
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1381.m3u8
-#EXTINF:-1,(EX-YOU):PINK SCI-FI & FANTASY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1382.m3u8
-#EXTINF:-1,(EX-YOU):PINK ROMANCE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1383.m3u8
-#EXTINF:-1,(EX-YOU):PINK REALITY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1384.m3u8
-#EXTINF:-1,(EX-YOU):PINK PREMIUM
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1385.m3u8
-#EXTINF:-1,(EX-YOU):PINK PLAS
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1399.m3u8
-#EXTINF:-1,(EX-YOU):PINK HOROR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1386.m3u8
-#EXTINF:-1,(EX-YOU):PINK ACTION
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1400.m3u8
-#EXTINF:-1,(E-YOU):PINK EXTRA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1387.m3u8
-#EXTINF:-1,(EX-YOU):OBN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1388.m3u8
-#EXTINF:-1,(EX-YOU):NOVA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1389.m3u8
-#EXTINF:-1,(EX-YOU):CINESTAR PREMIERE 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1396.m3u8
-#EXTINF:-1,(EX-YOU):CINEMAX1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1397.m3u8
-#EXTINF:-1,(EX-YOU):EUROSPORT2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1395.m3u8
-#EXTINF:-1,(EX-YOU):ALFA MK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1398.m3u8
-#EXTINF:-1,(EX-YOU):NAT GEOGRAPHIC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1390.m3u8
-#EXTINF:-1,(EX-YOU):HRT 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1394.m3u8
-#EXTINF:-1,(EX-YOU):HRT 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1393.m3u8
-#EXTINF:-1,(EX-YOU):HRT 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1392.m3u8
-#EXTINF:-1,(EX-YOU):HRT 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1391.m3u8
-#EXTINF:-1,++++NL++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1403.m3u8
-#EXTINF:-1,NL:HBO HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1338.m3u8
-#EXTINF:-1,NL:HBO 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1339.m3u8
-#EXTINF:-1,NL:HBO 3 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1340.m3u8
-#EXTINF:-1,NL:SBS9
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2125.m3u8
-#EXTINF:-1,NL:SBS6
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2126.m3u8
-#EXTINF:-1,NL:NICKTOONS
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1342.m3u8
-#EXTINF:-1,NL:NICKELODEON HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1343.m3u8
-#EXTINF:-1,NL:NICK JR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1344.m3u8
-#EXTINF:-1,NL:NET5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1341.m3u8
-#EXTINF:-1,NL:NATIONAL GEO WILD HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1345.m3u8
-#EXTINF:-1,NL:HISTORY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1347.m3u8
-#EXTINF:-1,NL:FOX SPORT 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1348.m3u8
-#EXTINF:-1,NL:TLC
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1346.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1244.m3u8
-#EXTINF:-1,NL: Ziggo Sport Extra 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1245.m3u8
-#EXTINF:-1,+++++DK+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1405.m3u8
-#EXTINF:-1,DK:TV2 ZULU
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1351.m3u8
-#EXTINF:-1,DK:TV2 SPORT
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1352.m3u8
-#EXTINF:-1,DK:TV2 NEWS DENMARK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1353.m3u8
-#EXTINF:-1,DK:TV2 FRİ
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1354.m3u8
-#EXTINF:-1,DK:TV2 DENMARK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1355.m3u8
-#EXTINF:-1,DK:TV3 Sport 1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1358.m3u8
-#EXTINF:-1,DK:TV3 Sport 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1359.m3u8
-#EXTINF:-1,DK:TV3 DENMARK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1360.m3u8
-#EXTINF:-1,DK:TV3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1357.m3u8
-#EXTINF:-1,DK:KANAL4 DK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1363.m3u8
-#EXTINF:-1,DK:KANAL5 DK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1364.m3u8
-#EXTINF:-1,DK:DR1 DENMARK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1349.m3u8
-#EXTINF:-1,DK:DR2 DENMARK
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1350.m3u8
-#EXTINF:-1,DK:DR ULTRA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1361.m3u8
-#EXTINF:-1,+++++GR+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1404.m3u8
-#EXTINF:-1,GR:ZOUGLA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1365.m3u8
-#EXTINF:-1,GR:VOULI
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1366.m3u8
-#EXTINF:-1,GR:RIG SAT 2 TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1367.m3u8
-#EXTINF:-1,GR:MEGA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1368.m3u8
-#EXTINF:-1,GR:MAD CY
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1369.m3u8
-#EXTINF:-1,GR:KPHTH TV GR
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1370.m3u8
-#EXTINF:-1,GR:KONTRA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1371.m3u8
-#EXTINF:-1,GR:ERT2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1375.m3u8
-#EXTINF:-1,GR:ERT3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1374.m3u8
-#EXTINF:-1,GR:EXTRA 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1373.m3u8
-#EXTINF:-1,GR:ALPHA TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1372.m3u8
-#EXTINF:-1,+++++PL+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1402.m3u8
-#EXTINF:-1,PL:TVP1 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1324.m3u8
-#EXTINF:-1,PL:TVP HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1336.m3u8
-#EXTINF:-1,PL:TVN HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1325.m3u8
-#EXTINF:-1,PL:Polsat HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1326.m3u8
-#EXTINF:-1,PL:Polsat 2 HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1330.m3u8
-#EXTINF:-1,PL:National Geographic
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1337.m3u8
-#EXTINF:-1,PL:HBO HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1331.m3u8
-#EXTINF:-1,PL:Filmbox EXTRA
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1334.m3u8
-#EXTINF:-1,PL:Filmbox
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1332.m3u8
-#EXTINF:-1,PL:Discovery Channel
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1328.m3u8
-#EXTINF:-1,PL:Comedy Central
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1333.m3u8
-#EXTINF:-1,PL:Canal+Sport
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1329.m3u8
-#EXTINF:-1,PL:Canal+Film
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1327.m3u8
-#EXTINF:-1,PL:AXN HD
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/1335.m3u8
-#EXTINF:-1,+++++ADULTKANALLARI+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/492.m3u8
-#EXTINF:-1,PENTHOUSE HD +18
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/451.m3u8
-#EXTINF:-1,HUSTLER TV +18
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/257.m3u8
-#EXTINF:-1,SUPERONE
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2127.m3u8
-#EXTINF:-1,BRAZZERS TV  +18
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/448.m3u8
-#EXTINF:-1,CANDY +18
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/450.m3u8
-#EXTINF:-1,REDLİGHT HD +18
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/447.m3u8
-#EXTINF:-1,JASMİN TV
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/258.m3u8
-#EXTINF:-1,PORN HD1
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/586.m3u8
-#EXTINF:-1,PORN HD 6
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2316.m3u8
-#EXTINF:-1,PORN HD 5
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2317.m3u8
-#EXTINF:-1,PORN HD 4
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2318.m3u8
-#EXTINF:-1,PORN HD 3
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2319.m3u8
-#EXTINF:-1,PORN HD 2
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/2320.m3u8
-#EXTINF:-1,Guek +18 (1)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1608.mp4
-#EXTINF:-1,Guek +18 (2)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1609.mp4
-#EXTINF:-1,Guek +18 (3)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1610.mp4
-#EXTINF:-1,Guek +18 (4)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1611.mp4
-#EXTINF:-1,Guek +18 (5)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1612.mp4
-#EXTINF:-1,Guek +18 (6)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1613.mp4
-#EXTINF:-1,Guek +18 (7)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1614.mp4
-#EXTINF:-1,Guek +18 (8)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1700.mp4
-#EXTINF:-1,Guek +18 (9)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1701.mp4
-#EXTINF:-1,Guek +18 (10)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1695.mp4
-#EXTINF:-1,Guek +18 (11)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1696.mp4
-#EXTINF:-1,Guek +18 (12)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1697.mp4
-#EXTINF:-1,Guek +18 (13)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1698.mp4
-#EXTINF:-1,Guek +18 (14)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1699.mp4
-#EXTINF:-1,Guek +18 (15)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1850.mp4
-#EXTINF:-1,Guek +18 (16)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1867.mp4
-#EXTINF:-1,Guek +18 (17)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1851.mp4
-#EXTINF:-1,Guek +18 (18)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1852.mp4
-#EXTINF:-1,Guek +18 (19)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1853.mp4
-#EXTINF:-1,Guek +18 (20)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1854.mp4
-#EXTINF:-1,Guek +18 (21)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1866.mp4
-#EXTINF:-1,Guek +18 (22)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1865.mp4
-#EXTINF:-1,Guek +18 (23)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1864.mp4
-#EXTINF:-1,Guek +18 (24)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1863.mp4
-#EXTINF:-1,Guek +18 (25)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1855.mp4
-#EXTINF:-1,Guek +18 (26)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1856.mp4
-#EXTINF:-1,Guek +18 (27)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1857.mp4
-#EXTINF:-1,Guek +18 (28)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1858.mp4
-#EXTINF:-1,Guek +18 (29)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1859.mp4
-#EXTINF:-1,Guek +18 (30)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1860.mp4
-#EXTINF:-1,Guek +18 (31)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1861.mp4
-#EXTINF:-1,Guek +18 (32)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1862.mp4
-#EXTINF:-1,Guek +18 (33)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2075.mp4
-#EXTINF:-1,Guek +18 (34)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2076.mp4
-#EXTINF:-1,Guek +18 (35)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2077.mp4
-#EXTINF:-1,Guek +18 (36)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2078.mp4
-#EXTINF:-1,Guek +18 (37)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2079.mp4
-#EXTINF:-1,Guek +18 (38)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2080.mp4
-#EXTINF:-1,Guek +18 (39)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2081.mp4
-#EXTINF:-1,Guek +18 (40)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2082.mp4
-#EXTINF:-1,Guek +18 (41)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2083.mp4
-#EXTINF:-1,Guek +18 (42)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2084.mp4
-#EXTINF:-1,Guek +18 (43)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2066.mp4
-#EXTINF:-1,Guek +18 (44)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2067.mp4
-#EXTINF:-1,Guek +18 (45)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2068.mp4
-#EXTINF:-1,Guek +18 (46)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2069.mp4
-#EXTINF:-1,Guek +18 (47)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2070.mp4
-#EXTINF:-1,Guek +18 (48)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2071.mp4
-#EXTINF:-1,Guek +18 (49)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2072.mp4
-#EXTINF:-1,Guek +18 (50)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2073.mp4
-#EXTINF:-1,Guek +18 (51)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2061.mp4
-#EXTINF:-1,Guek +18 (52)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2062.mp4
-#EXTINF:-1,Guek +18 (53)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2063.mp4
-#EXTINF:-1,Guek +18 (54)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2064.mp4
-#EXTINF:-1,Guek +18 (55)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2065.mp4
-#EXTINF:-1,Guek +18 (56)
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2074.mp4
-#EXTINF:-1,+++++VODFİLMLER+++++
-http://guekiptv.com:8000/live/bykasim/WqqPjqmv4h/491.m3u8
-#EXTINF:-1,TR: Yola.Geldik.2016.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2010.mkv
-#EXTINF:-1,TR: Yaktin.Beni.2015.Sansursuz.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2009.mkv
-#EXTINF:-1,TR: Yahsi.Bati.2009.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2008.mkv
-#EXTINF:-1,TR: Veda.2010.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2007.mkv
-#EXTINF:-1,TR: Vay.Basima.Gelenler.2.Bucuk.2015.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2006.mkv
-#EXTINF:-1,TR: Temel.Ile.Dursun.Istanbulda.2016.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2005.mkv
-#EXTINF:-1,TR: Surgun.Inek.2014.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2004.mkv
-#EXTINF:-1,TR: Sumelanin.Sifresi.Temel.2011.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2003.mkv
-#EXTINF:-1,TR: Sipsak.Anadolu.2014.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2002.mkv
-#EXTINF:-1,TR: Seytan-i.Racim.2013.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2001.mkv
-#EXTINF:-1,TR: Sevkat.Yerimdar.2013.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2000.mkv
-#EXTINF:-1,TR: Senin.Hikayen.2013.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1999.mkv
-#EXTINF:-1,TR: Sari.Siyah.2013.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1998.mkv
-#EXTINF:-1,TR: Romantik.Komedi.Ask.Tadinda.2010.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1997.mkv
-#EXTINF:-1,TR: Propaganda.1999.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1996.mkv
-#EXTINF:-1,TR: Peri.Masali.2014.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1995.mkv
-#EXTINF:-1,TR: Pardon.2004.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1994.mkv
-#EXTINF:-1,TR: Panzehir.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1993.mkv
-#EXTINF:-1,TR: Oz.Hakiki.Karakol.2012.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1992.mkv
-#EXTINF:-1,TR: Osman.Pazarlama.2016.Sansursuz.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1991.mkv
-#EXTINF:-1,TR: Oflu.Hocanin.Sifresi.2014.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1990.mkv
-#EXTINF:-1,TR: New.Yorkta.Bes.Minare.2010.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1989.mkv
-#EXTINF:-1,TR: Neredesin.Firuze.2004.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1988.mkv
-#EXTINF:-1,TR: Nefes.Vatan.Sagolsun.2009.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1987.mkv
-#EXTINF:-1,TR: Muska.2014.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1986.mkv
-#EXTINF:-1,TR: Muhalif.Baskan.2013.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1985.mkv
-#EXTINF:-1,TR: Mucize.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1984.mkv
-#EXTINF:-1,TR: Moskovanin.Sifresi.Temel.2012.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1983.mkv
-#EXTINF:-1,TR: Miras.2008.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1982.mkv
-#EXTINF:-1,TR: Memleket.Meselesi.2010.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1981.mkv
-#EXTINF:-1,TR: Mel-Un.2016.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1980.mkv
-#EXTINF:-1,TR: Maskeli.Besler.Kibris.2008.Bipsiz.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1979.mkv
-#EXTINF:-1,TR: Limonata.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1978.mkv
-#EXTINF:-1,TR: Leblebi.Tozu.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1977.mkv
-#EXTINF:-1,TR: Kum3u8al.Damacana.2007.Bipsiz.1080p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1976.mkv
-#EXTINF:-1,TR: Kum3u8al.Damacana.2.Itmen.2010.1080P
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1975.mkv
-#EXTINF:-1,TR: Kurtlar.Vadisi.Irak.2006.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1974.mkv
-#EXTINF:-1,TR: Koyverdin.Gittin.Beni.2016.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1973.mkv
-#EXTINF:-1,TR: Kotu.Kedi.Serafettin.2016.1080p.WEB-DL.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1972.mkv
-#EXTINF:-1,TR: Kostebekgiller.Perili.Orman.2015.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1971.mkv
-#EXTINF:-1,TR: Komser.Sekspir.2000.720p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1970.mkv
-#EXTINF:-1,TR: Kolpacino.Bomba.2011.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1969.mkv
-#EXTINF:-1,TR: Kolpacino.2009.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1968.mkv
-#EXTINF:-1,TR: Kiz.Kaciran.2016.720p.WEBRip.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1967.mkv
-#EXTINF:-1,TR: Kendime.Iyi.Bak.2014.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1966.mkv
-#EXTINF:-1,TR: Kaos.Orumcek.Agi.2012.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1965.mkv
-#EXTINF:-1,TR: Kacma.Birader.2016.720p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1964.mkv
-#EXTINF:-1,TR: Kabadayi.2007.720p.BluRay.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1963.mkv
-#EXTINF:-1,TR: Insaat.2003.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1962.mkv
-#EXTINF:-1,TR: Insaat.2.2014.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1961.mkv
-#EXTINF:-1,TR: Iksir.2014.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1960.mkv
-#EXTINF:-1,TR: Ikizler.Firarda.2012.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1959.mkv
-#EXTINF:-1,TR: Hop.Dedik.Deli.Dumrul.2011.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1958.mkv
-#EXTINF:-1,TR: Hesapta.Ask.2016.1080p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1957.mkv
-#EXTINF:-1,TR: Herkes.mi.Aldatir.2010.Sansursuz.1080p.WEB-DL.x264.AC3-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1956.mkv
-#EXTINF:-1,TR: Her.Sey.Cok.Guzel.Olacak.1998.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1955.mkv
-#EXTINF:-1,TR: Guvercin.Ucuverdi.2015.720p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1954.mkv
-#EXTINF:-1,TR: Gunesi.Gordum.2010.720p.BluRay.x264.Dm3u8.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1953.mkv
-#EXTINF:-1,TR: Ezan.2015.720p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1952.mkv
-#EXTINF:-1,TR: Evim.Sensin.2012.720p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1951.mkv
-#EXTINF:-1,TR: Eski.Sevgiliyi.Unutmanin.10.Yolu.2015.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1950.mkv
-#EXTINF:-1,TR: Entelkoy.Efe.Koye.Karsi.2011.720p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1949.mkv
-#EXTINF:-1,TR: Dursun.Cavus.2013.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1948.mkv
-#EXTINF:-1,TR: Dugun.Dernek.2.Sunnet.2015.1080p.WEB-DL.x264.AC3.DD5.1.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1947.mkv
-#EXTINF:-1,TR: Destere.2008.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1946.mkv
-#EXTINF:-1,TR: Dabbe.4.Cin.Carpmasi.2013.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1945.mkv
-#EXTINF:-1,TR: Celal.Ile.Ceren.2013.Sansursuz.720p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1944.mkv
-#EXTINF:-1,TR: Carsi.Pazar.2015.Sansursuz.1080p.WEB-DL.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1943.mkv
-#EXTINF:-1,TR: Calgi.Cengi.2011.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1942.mkv
-#EXTINF:-1,TR: Bi.Kucuk.Eylul.Meselesi.2014.720p.BluRay.x264.Dm3u8.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1941.mkv
-#EXTINF:-1,TR: Beyaz.Melek.2007.720p.Bluray.x264.Dm3u8.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1940.mkv
-#EXTINF:-1,TR: Benim.Dunyam.2013.720p.BluRay.x264.Dm3u8.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1939.mkv
-#EXTINF:-1,TR: Bana.Bir.Soygun.Yaz.2012.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1938.mkv
-#EXTINF:-1,TR: Ay.Lav.Yu.2010.720p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1937.mkv
-#EXTINF:-1,TR: Av.Mevsimi.2010.720p.BluRay.x264.Dm3u8.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1936.mkv
-#EXTINF:-1,TR: Anadolu.Kartallari.2011.720p.HDTV.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1935.mkv
-#EXTINF:-1,TR: Ali.Kundilli.2.2016.1080p.WEB-DL.x264.AC3.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1934.mkv
-#EXTINF:-1,TR: Ali.Baba.ve.7.Cuceler.2015.720p.DVDRip.x264.AC3.DD5.1.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1933.mkv
-#EXTINF:-1,TR: A.R.O.G.2008.1080p.WEB-DL.x264.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1932.mkv
-#EXTINF:-1,Game.of.Thrones.S06E10.720p.FiNaL.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1763.mkv
-#EXTINF:-1,Game.of.Thrones.S06E09.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1762.mkv
-#EXTINF:-1,Game.of.Thrones.S06E08.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1761.mkv
-#EXTINF:-1,Game.of.Thrones.S06E07.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1760.mkv
-#EXTINF:-1,Game.of.Thrones.S06E06.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1759.mkv
-#EXTINF:-1,Game.of.Thrones.S06E05.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1758.mkv
-#EXTINF:-1,Game.of.Thrones.S06E04.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1757.mkv
-#EXTINF:-1,Game.of.Thrones.S06E03.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1756.mkv
-#EXTINF:-1,Game.of.Thrones.S06E02.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1755.mkv
-#EXTINF:-1,Game.of.Thrones.S06E01.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1754.mkv
-#EXTINF:-1,Game.of.Thrones.S05E10.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1753.mkv
-#EXTINF:-1,Game.of.Thrones.S05E09.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1752.mkv
-#EXTINF:-1,Game.of.Thrones.S05E08.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1751.mkv
-#EXTINF:-1,Game.of.Thrones.S05E07.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1750.mkv
-#EXTINF:-1,Game.of.Thrones.S05E06.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1749.mkv
-#EXTINF:-1,Game.of.Thrones.S05E05.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1748.mkv
-#EXTINF:-1,Game.of.Thrones.S05E04.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1747.mkv
-#EXTINF:-1,Game.of.Thrones.S05E03.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1746.mkv
-#EXTINF:-1,Game.of.Thrones.S05E02.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1745.mkv
-#EXTINF:-1,Game.of.Thrones.S05E01.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1744.mkv
-#EXTINF:-1,Game.of.Thrones.S04E10.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1743.mkv
-#EXTINF:-1,Game.of.Thrones.S04E09.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1742.mkv
-#EXTINF:-1,Game.of.Thrones.S04E08.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1741.mkv
-#EXTINF:-1,Game.of.Thrones.S04E07.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1740.mkv
-#EXTINF:-1,Game.of.Thrones.S04E06.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1739.mkv
-#EXTINF:-1,Game.of.Thrones.S04E05.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1738.mkv
-#EXTINF:-1,Game.of.Thrones.S04E04.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1737.mkv
-#EXTINF:-1,Game.of.Thrones.S04E03.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1736.mkv
-#EXTINF:-1,Game.of.Thrones.S04E02.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1735.mkv
-#EXTINF:-1,Game.of.Thrones.S04E01.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1734.mkv
-#EXTINF:-1,Game.of.Thrones.S03E10.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1733.mkv
-#EXTINF:-1,Game.of.Thrones.S03E09.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1732.mkv
-#EXTINF:-1,Game.of.Thrones.S03E08.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1731.mkv
-#EXTINF:-1,Game.of.Thrones.S03E07.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1730.mkv
-#EXTINF:-1,Game.of.Thrones.S03E06.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1729.mkv
-#EXTINF:-1,Game.of.Thrones.S03E05.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1728.mkv
-#EXTINF:-1,Game.of.Thrones.S03E04.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1727.mkv
-#EXTINF:-1,Game.of.Thrones.S03E03.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1726.mkv
-#EXTINF:-1,Game.of.Thrones.S03E02.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1725.mkv
-#EXTINF:-1,Game.of.Thrones.S03E01.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1724.mkv
-#EXTINF:-1,Game.of.Thrones.S02E10.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1723.mkv
-#EXTINF:-1,Game.of.Thrones.S02E09.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1722.mkv
-#EXTINF:-1,Game.of.Thrones.S02E08.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1721.mkv
-#EXTINF:-1,Game.of.Thrones.S02E07.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1720.mkv
-#EXTINF:-1,Game.of.Thrones.S02E06.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1719.mkv
-#EXTINF:-1,Game.of.Thrones.S02E05.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1718.mkv
-#EXTINF:-1,Game.of.Thrones.S02E04.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1717.mkv
-#EXTINF:-1,Game.of.Thrones.S02E03.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1716.mkv
-#EXTINF:-1,Game.of.Thrones.S02E02.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1715.mkv
-#EXTINF:-1,Game.of.Thrones.S02E01.720p.BluRay.x264.DUALL
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1714.mkv
-#EXTINF:-1,Game.of.Thrones.S01E10.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1713.mkv
-#EXTINF:-1,Game.of.Thrones.S01E09.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1712.mkv
-#EXTINF:-1,Game.of.Thrones.S01E08.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1711.mkv
-#EXTINF:-1,Game.of.Thrones.S01E07.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1710.mkv
-#EXTINF:-1,Game.of.Thrones.S01E06.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1709.mkv
-#EXTINF:-1,Game.of.Thrones.S01E05.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1708.mkv
-#EXTINF:-1,Game.of.Thrones.S01E04.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1707.mkv
-#EXTINF:-1,Game.of.Thrones.S01E03.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1706.mkv
-#EXTINF:-1,Game.of.Thrones.S01E02.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1705.mkv
-#EXTINF:-1,Game.of.Thrones.S01E01.720p.BluRay.DUAL.x264
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1704.mkv
-#EXTINF:-1,DUAL: Buz.Devri.4.Kitalar.Ayriliyor.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2060.mkv
-#EXTINF:-1,DUAL: Buz.Devri.3.Dinozorlarin.Safagi.2009.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2059.mkv
-#EXTINF:-1,DUAL: Buz.Devri.2002.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2058.mkv
-#EXTINF:-1,DUAL: Buz.Devri.2.Erime.Basliyor.2006.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2057.mkv
-#EXTINF:-1,DUAL: Buz.Adam.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2056.mkv
-#EXTINF:-1,DUAL: Buyuk.Usta.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2055.mkv
-#EXTINF:-1,DUAL: Buyuk.Tuzak.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2054.mkv
-#EXTINF:-1,DUAL: Buyuk.Oyun.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2053.mkv
-#EXTINF:-1,DUAL: Buyuk.Lider.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2052.mkv
-#EXTINF:-1,DUAL: Buyuk.Hazine.2004.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2051.mkv
-#EXTINF:-1,DUAL: Buyuk.Hazine.2.Sirlar.Kitabi.2007.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2050.mkv
-#EXTINF:-1,DUAL: Buyuk.Budapeste.Oteli.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2049.mkv
-#EXTINF:-1,DUAL: Bulut.Atlasi.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2048.mkv
-#EXTINF:-1,DUAL: Budala.Dedektif.2.1995.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2047.mkv
-#EXTINF:-1,DUAL: Budala.Dedektif.1994.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2046.mkv
-#EXTINF:-1,DUAL: Bu.Gece.Beni.Eve.Al.2011.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2045.mkv
-#EXTINF:-1,DUAL: Brooklyn.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2044.mkv
-#EXTINF:-1,DUAL: Bridget.Jonesun.Gunlugu.2001.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2043.mkv
-#EXTINF:-1,DUAL: Bridget.Jones.Mantigin.Siniri.2004
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2042.mkv
-#EXTINF:-1,DUAL: Brahman.Naman.2016
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2041.mkv
-#EXTINF:-1,DUAL: Bourneun.Mirasi.2012.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2040.mkv
-#EXTINF:-1,DUAL: Bomba.Gibi.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2039.mkv
-#EXTINF:-1,DUAL: Bolt.2008.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2038.mkv
-#EXTINF:-1,DUAL: Blade.3.2004.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2037.mkv
-#EXTINF:-1,DUAL: Blade.2.2002.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2036.mkv
-#EXTINF:-1,DUAL: Blade.1998.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2035.mkv
-#EXTINF:-1,DUAL: Bir.Baska.Ben.2013.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2034.mkv
-#EXTINF:-1,DUAL: Bethten.Sonra.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2033.mkv
-#EXTINF:-1,DUAL: Benim.Komsum.Bir.Melek.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2032.mkv
-#EXTINF:-1,DUAL: Beni.Suclu.Bulun.2006.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2031.mkv
-#EXTINF:-1,DUAL: Ben.Gitmeden.Once.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2030.mkv
-#EXTINF:-1,DUAL: Ben.Earl.ve.Olen.Kiz.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2029.mkv
-#EXTINF:-1,DUAL: Ben.Ali.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2028.mkv
-#EXTINF:-1,DUAL: Belali.Rehine.2013.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2027.mkv
-#EXTINF:-1,DUAL: Beklenmeyen.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2026.mkv
-#EXTINF:-1,DUAL: Beklemede.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2025.mkv
-#EXTINF:-1,DUAL: Bekar.Yasam.Kilavuzu.2016.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2024.mkv
-#EXTINF:-1,DUAL: Bebek.Yapanlar.2012.LIMITED.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2023.mkv
-#EXTINF:-1,DUAL: Baytown.Haydurlari.2012.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2022.mkv
-#EXTINF:-1,DUAL: Bay.ve.Bayan.Smith.2005.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2021.mkv
-#EXTINF:-1,DUAL: Batman.v.Superman.Adaletin.Safaginda.2016.EXTENDED.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2020.mkv
-#EXTINF:-1,DUAL: Batman.Basliyor.2005.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2019.mkv
-#EXTINF:-1,DUAL: Baskin.2.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2018.mkv
-#EXTINF:-1,DUAL: Baskalariyla.Olmak.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2017.mkv
-#EXTINF:-1,DUAL: Baska.Soze.Gerek.Yok.2013.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2016.mkv
-#EXTINF:-1,DUAL: Bas.Belasi.2014.Theatrical.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2015.mkv
-#EXTINF:-1,DUAL: Bana.Ulas.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2014.mkv
-#EXTINF:-1,DUAL: Bakin.Kim.Donmus.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2013.mkv
-#EXTINF:-1,DUAL: Babalar.ve.Kizlari.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2012.mkv
-#EXTINF:-1,DUAL: Babalar.Savasiyor.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2011.mkv
-#EXTINF:-1,DUAL: XOXO.2016.720p.WEB-DL.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1795.mkv
-#EXTINF:-1,DUAL: Vurgun.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1794.mkv
-#EXTINF:-1,DUAL: Virunga.2014.720p.WEB-DL.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1847.mkv
-#EXTINF:-1,DUAL: Uyumsuz.Serisi.Yandas.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1793.mkv
-#EXTINF:-1,DUAL: Tallulah.2016.720p.WEB-DL.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1792.mkv
-#EXTINF:-1,DUAL: Suikastci.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1774.mkv
-#EXTINF:-1,DUAL: Suclu.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1791.mkv
-#EXTINF:-1,DUAL: Stereo.2015.720p.WEB-DL.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1773.mkv
-#EXTINF:-1,DUAL: Senden.Once.Ben.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1790.mkv
-#EXTINF:-1,DUAL: Ratchet.and.Clank.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1789.mkv
-#EXTINF:-1,DUAL: Patron.2016.UNRATED.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1788.mkv
-#EXTINF:-1,DUAL: Orman.Cocugu.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1787.mkv
-#EXTINF:-1,DUAL: Manhattan.Gecesi.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1786.mkv
-#EXTINF:-1,DUAL: Kizgin.Kuslar.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1784.mkv
-#EXTINF:-1,DUAL: Keanu.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1783.mkv
-#EXTINF:-1,DUAL: Kayip.Umut.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1772.mkv
-#EXTINF:-1,DUAL: Kartal.Eddie.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1782.mkv
-#EXTINF:-1,DUAL: Kaptan.Amerika.Kahramanlarin.Savasi.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1781.mkv
-#EXTINF:-1,DUAL: Kapinin.Diger.Tarafi.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1780.mkv
-#EXTINF:-1,DUAL: Kalpazan.2014.720p.BluRay.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1846.mkv
-#EXTINF:-1,DUAL: Istedigini.Sor.2014.720p.WEB-DL.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1845.mkv
-#EXTINF:-1,DUAL: Inatcilar.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1771.mkv
-#EXTINF:-1,DUAL: I.Am.Wrath.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1779.mkv
-#EXTINF:-1,DUAL: Hesaplasma.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1778.mkv
-#EXTINF:-1,DUAL: Hayalperest.2015.720p.WEB-DL.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1770.mkv
-#EXTINF:-1,DUAL: Hay.Aksi.Seytan.2016.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1777.mkv
-#EXTINF:-1,DUAL: Col.Kralicesi.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1769.mkv
-#EXTINF:-1,DUAL: Demir.Adam.3.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2138.mkv
-#EXTINF:-1,DUAL: Demir.Adam.2008.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2137.mkv
-#EXTINF:-1,DUAL: Demir.Adam.2.2010.1080p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2136.mkv
-#EXTINF:-1,DUAL: Dehset.Kasabasi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2135.mkv
-#EXTINF:-1,DUAL: Deadpool.2016.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2134.mkv
-#EXTINF:-1,DUAL: Daragaci.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2133.mkv
-#EXTINF:-1,DUAL: Danny.Collins.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2132.mkv
-#EXTINF:-1,DUAL: Danimarkali.Kiz.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2131.mkv
-#EXTINF:-1,DUAL: Dalgalarin.Pesinde.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2130.mkv
-#EXTINF:-1,DUAL: Dalga.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2129.mkv
-#EXTINF:-1,DUAL: Crimson.Peak.2015.720p.BluRay.x264-SPARKS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2124.mkv
-#EXTINF:-1,DUAL: Creed.Efsanenin.Dogusu.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2123.mkv
-#EXTINF:-1,DUAL: Cop.2014.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2122.mkv
-#EXTINF:-1,DUAL: Ciplak.Liman.2012.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2121.mkv
-#EXTINF:-1,DUAL: Cilgin.Max.Ofkeli.Yollar.2015.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2120.mkv
-#EXTINF:-1,DUAL: Cilgin.Ihtiyar.2016.720p
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2119.mkv
-#EXTINF:-1,DUAL: Cilgin.Hirsiz.2010.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2118.mkv
-#EXTINF:-1,DUAL: Cilgin.Hirsiz.2.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2117.mkv
-#EXTINF:-1,DUAL: Cilgin.Dugun.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2116.mkv
-#EXTINF:-1,DUAL: Cilgin.Dostlar.4.Korkak.Kahraman.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2115.mkv
-#EXTINF:-1,DUAL: Cilgin.Dostlar.3.2010.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2114.mkv
-#EXTINF:-1,DUAL: Cilgin.Dostlar.2006.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2113.mkv
-#EXTINF:-1,DUAL: Cilgin.Dostlar.2.2008.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2112.mkv
-#EXTINF:-1,DUAL: Cilgin.Bir.Gece.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2111.mkv
-#EXTINF:-1,DUAL: Chloe.ve.Theo.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2110.mkv
-#EXTINF:-1,DUAL: Cherrynin.Hikayesi.2012.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2109.mkv
-#EXTINF:-1,DUAL: Charlienin.Melekleri.Tam.Gaz.2003.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2108.mkv
-#EXTINF:-1,DUAL: Charlienin.Melekleri.2000.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2107.mkv
-#EXTINF:-1,DUAL: Charlie.Wilsonin.Savasi.2007.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2106.mkv
-#EXTINF:-1,DUAL: Chappie.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2105.mkv
-#EXTINF:-1,DUAL: Cete.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2104.mkv
-#EXTINF:-1,DUAL: Cesaret.Tohumlari.2012.720p.BluRay.x264.AC3.DUAL-HDM.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2103.mkv
-#EXTINF:-1,DUAL: Celik.Yumruklar.2011.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2102.mkv
-#EXTINF:-1,DUAL: Celik.Adam.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2101.mkv
-#EXTINF:-1,DUAL: Cehennem.Melekleri.3.2014.Theatrical.Cut.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2100.mkv
-#EXTINF:-1,DUAL: Cehennem.Melekleri.2010.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2099.mkv
-#EXTINF:-1,DUAL: Cehennem.Melekleri.2.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2098.mkv
-#EXTINF:-1,DUAL: Casuslar.Koprusu.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2097.mkv
-#EXTINF:-1,DUAL: Casuslar.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2096.mkv
-#EXTINF:-1,DUAL: Carol.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2095.mkv
-#EXTINF:-1,DUAL: Capraz.Ates.2011.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2094.mkv
-#EXTINF:-1,DUAL: Capkin.Profesor.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2093.mkv
-#EXTINF:-1,DUAL: Capkin.2009.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2092.mkv
-#EXTINF:-1,DUAL: Canavarlar.Firarda.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2091.mkv
-#EXTINF:-1,DUAL: Can.Dostum.2011.720p.BluRay.x264.Dm3u8.DUAL-HDTURK.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2090.mkv
-#EXTINF:-1,DUAL: Calinti.Hayat.2012.Extended.Cut.720p.BluRay.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2089.mkv
-#EXTINF:-1,DUAL: Cakmaktaslar.ve.WWE.Tas.Devri.Smackdown.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2088.mkv
-#EXTINF:-1,DUAL :Cakma.Polisler.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2087.mkv
-#EXTINF:-1,DUAL :Cake.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2086.mkv
-#EXTINF:-1,DUAL :Cadi.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/2085.mkv
-#EXTINF:-1,DUAL: Bronz.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1768.mkv
-#EXTINF:-1,DUAL: Bay.Dogru.2015.720p.BluRay.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1767.mkv
-#EXTINF:-1,DUAL: Bakim.Esaslari.2016.720p.WEB-DL.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1776.mkv
-#EXTINF:-1,DUAL: Ayi.Teddy.2012.720p.BluRay.x264.Dm3u8.DUAL-LTRG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1844.mkv
-#EXTINF:-1,DUAL: Ayi.Teddy.2.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1843.mkv
-#EXTINF:-1,DUAL: AVM.Polisi.Vegasta.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1801.mkv
-#EXTINF:-1,DUAL: Avci.Kis.Savasi.2016.EXTENDED.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1775.mkv
-#EXTINF:-1,DUAL: Av.Zamani.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1842.mkv
-#EXTINF:-1,DUAL: Atmaca.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1841.mkv
-#EXTINF:-1,DUAL: Atesli.Geceler.1997.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1840.mkv
-#EXTINF:-1,DUAL: Asli.Gibidir.2010.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1839.mkv
-#EXTINF:-1,DUAL: Aslanin.Kalbi.2013.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1838.mkv
-#EXTINF:-1,DUAL: Asla.Pes.Etme.3.2016.720p.WEBRip.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1837.mkv
-#EXTINF:-1,DUAL: Askin.Ritmi.2015.720p.BluRay.x264.AC3.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1766.mkv
-#EXTINF:-1,DUAL: Askin.Pesinde.2008.720p.BluRay.x264.Dm3u8.DUAL-HDTURK.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1836.mkv
-#EXTINF:-1,DUAL: Askin.Kimyasi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1835.mkv
-#EXTINF:-1,DUAL: Askin.Dansi.2014.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1834.mkv
-#EXTINF:-1,DUAL: Askin.500.Gunu.2009.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1833.mkv
-#EXTINF:-1,DUAL: Aska.Ozgurluk.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1832.mkv
-#EXTINF:-1,DUAL: Ask.Yonetimi.2008.720p.BluRay.x264.Dm3u8.DUAL-HDTURK.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1829.mkv
-#EXTINF:-1,DUAL: Ask.Yemini.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1828.mkv
-#EXTINF:-1,DUAL: Ask.ve.Merhamet.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1831.mkv
-#EXTINF:-1,DUAL: Ask.ve.Gurur.ve.Zombiler.2016.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1830.mkv
-#EXTINF:-1,DUAL: Ask.Ugruna.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1827.mkv
-#EXTINF:-1,DUAL: Ask.Tarifi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1826.mkv
-#EXTINF:-1,DUAL: Ask.Sarkisi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1825.mkv
-#EXTINF:-1,DUAL: Ask.Rossie.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1824.mkv
-#EXTINF:-1,DUAL: Ask.Olur.2009.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1823.mkv
-#EXTINF:-1,DUAL: Ask.Listesi.2008.720p.BluRay.x264.AC3.DUAL-LTRG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1822.mkv
-#EXTINF:-1,DUAL: Ask.Limani.2013.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1821.mkv
-#EXTINF:-1,DUAL: Ask.Baskadir.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1820.mkv
-#EXTINF:-1,DUAL: Ashby.2015.720p.BluRay.x264.Dm3u8.DUAL-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1765.mkv
-#EXTINF:-1,DUAL: Asabiyim.Ben.2014.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1819.mkv
-#EXTINF:-1,DUAL: Arizali.Ciftler.2009.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1818.mkv
-#EXTINF:-1,DUAL: Arinma.Gecesi.Anarsi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1817.mkv
-#EXTINF:-1,DUAL: Aramizda.Bebek.Var.2011.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1816.mkv
-#EXTINF:-1,DUAL: Arabalar.2006.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1815.mkv
-#EXTINF:-1,DUAL: Arabalar.2.2011.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1814.mkv
-#EXTINF:-1,DUAL: Amerikan.Pastasi.8.Bulusma.2012.UNRATED.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1813.mkv
-#EXTINF:-1,DUAL: Alvin.ve.Sincaplar.Yol.Macerasi.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1812.mkv
-#EXTINF:-1,DUAL: Alcak.Adam.2001.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1811.mkv
-#EXTINF:-1,DUAL: Alacakaranlik.Efsanesi.Yeni.Ay.2009.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1810.mkv
-#EXTINF:-1,DUAL: Alacakaranlik.Efsanesi.Tutulma.2010.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1809.mkv
-#EXTINF:-1,DUAL: Alacakaranlik.Efsanesi.Safak.Vakti.Bolum.2.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1808.mkv
-#EXTINF:-1,DUAL: Alacakaranlik.2008.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1807.mkv
-#EXTINF:-1,DUAL: Akrep.Kral.2002.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1806.mkv
-#EXTINF:-1,DUAL: Ajan.2015.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1805.mkv
-#EXTINF:-1,DUAL: Ailem.Icin.2012.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1804.mkv
-#EXTINF:-1,DUAL: Adalet.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1803.mkv
-#EXTINF:-1,DUAL: Aclik.Oyunlari.Alayci.Kus.Bolum.2.2015.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1802.mkv
-#EXTINF:-1,DUAL: 6.Super.Kahraman.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1800.mkv
-#EXTINF:-1,DUAL: 5.Dalga.2016.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1799.mkv
-#EXTINF:-1,DUAL: 300.Spartali.2006.720p.BluRay.x264.AC3.DUAL-LTRG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1798.mkv
-#EXTINF:-1,DUAL: 300.Bir.Imparatorlugun.Yukselisi.2014.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1797.mkv
-#EXTINF:-1,DUAL: 3.Aptal.2009.720p.BluRay.x264.Dm3u8.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1796.mkv
-#EXTINF:-1,DUAL: 13.Saat.Bingazinin.Gizli.Askerleri.2016.720p.BluRay.x264.AC3.DUAL.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1764.mkv
-#EXTINF:-1,TR:Yok Artik 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1433.mp4
-#EXTINF:-1,TR:Yarim 2016
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1447.mp4
-#EXTINF:-1,TR DUB:Zoraki Hedef 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1415.mp4
-#EXTINF:-1,TR DUB:Zoraki Dedektif
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1416.mp4
-#EXTINF:-1,TR DUB:Zoraki Dede
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1417.mp4
-#EXTINF:-1,TR DUB:Zoolander 2 2016
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1421.mp4
-#EXTINF:-1,TR DUB:Ziyaret The Visit 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1424.mp4
-#EXTINF:-1,TR DUB:Yuce Sezar 2016
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1431.mp4
-#EXTINF:-1,TR DUB:Yilin Ogretmeni
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1434.mp4
-#EXTINF:-1,TR DUB:Yeni Umut 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1438.mp4
-#EXTINF:-1,TR DUB:Yeni Nesil Asklar
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1439.mp4
-#EXTINF:-1,TR DUB:Yedinci Ates   -  The Seventh Fire
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1441.mp4
-#EXTINF:-1,TR DUB:Yaz Kopegi 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1442.mp4
-#EXTINF:-1,TR DUB:Yatak Odasi Komedisi
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1443.mp4
-#EXTINF:-1,TR DUB:Yatak Dersleri Filmi
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1444.mp4
-#EXTINF:-1,TR DUB:Yasamin Kiyisinda 2007
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1445.mp4
-#EXTINF:-1,TR DUB:Yasakli Oda 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1446.mp4
-#EXTINF:-1,TR DUB:Yaramaz Bebek  -  Nasty Baby 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1448.mp4
-#EXTINF:-1,TR DUB:Yanlis Nedenler
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1449.mp4
-#EXTINF:-1,TR DUB:Yanlis Kadin
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1450.mp4
-#EXTINF:-1,TR DUB: Kuzular.Kurtlara.Karsi.2016.720p.TR.WEB-DL.x264.AC3-HdT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1785.mkv
-#EXTINF:-1,TR DUB:Ben Gazap
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1429.mp4
-#EXTINF:-1,TR ALT:Zoom 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1420.mp4
-#EXTINF:-1,ENG: X-Men.Apocalypse.2016.HDRip.KORSUB.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1931.avi
-#EXTINF:-1,ENG: Warcraft.2016.HDRip.KORSUB.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1930.avi
-#EXTINF:-1,ENG: Viral.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1929.avi
-#EXTINF:-1,ENG: Traded.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1928.avi
-#EXTINF:-1,ENG: Three.Bedrooms.One.Corpse.An.Aurora.Teagarden.Mystery.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1927.avi
-#EXTINF:-1,ENG: The.Purge.Election.Year.2016.HC.WEBRip.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1926.avi
-#EXTINF:-1,ENG: The.Perfect.Match.2016.BDRip.x264-GECKOS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1925.mkv
-#EXTINF:-1,ENG: The.Nice.Guys.2016.ARABSUB.WEBRip.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1924.avi
-#EXTINF:-1,ENG: The.Legend.of.Tarzan.2016.HDRip.KORSUB.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1923.avi
-#EXTINF:-1,ENG: The.Last.Heist.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1922.avi
-#EXTINF:-1,ENG: The.Hunm3u8man.Winters.War.2016.EXTENDED.BDRip.x264-AMIABLE.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1921.mkv
-#EXTINF:-1,ENG: Split.2016.HDRip.XviD.AC3-EVO.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1918.avi
-#EXTINF:-1,ENG: Sniper.Special.Ops.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1917.avi
-#EXTINF:-1,ENG: Sniper.Ghost.Shooter.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1916.avi
-#EXTINF:-1,ENG: Sinister.Squad.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1915.avi
-#EXTINF:-1,ENG: Sing.Street.2016.BDRip.x264-GECKOS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1914.mkv
-#EXTINF:-1,ENG: Shelley.2016.WEB-DL.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1913.avi
-#EXTINF:-1,ENG: Sharknado.The.4th.Awakens.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1912.avi
-#EXTINF:-1,ENG: Scare.Campaign.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1911.avi
-#EXTINF:-1,ENG: Robinson.Crusoe.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1910.avi
-#EXTINF:-1,ENG: Rebirth.2016.WEBRip.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1909.avi
-#EXTINF:-1,ENG: Planet.of.the.Sharks.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1908.avi
-#EXTINF:-1,ENG: Ozark.Sharks.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1907.avi
-#EXTINF:-1,ENG: Outlaws.and.Angels.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1906.avi
-#EXTINF:-1,ENG: Now.You.See.Me.2.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1905.avi
-#EXTINF:-1,ENG: Natural.Selection.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1904.avi
-#EXTINF:-1,ENG: Murder.She.Baked.A.Deadly.Recipe.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1903.avi
-#EXTINF:-1,ENG: Mothers.Day.2016.BDRip.x264-DRONES.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1902.mkv
-#EXTINF:-1,ENG: Meet.the.Blacks.2016.BDRip.x264-GECKOS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1901.mkv
-#EXTINF:-1,ENG: Me.Before.You.2016.V2.HC.HDRip.XviD.AC3-EVO.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1900.avi
-#EXTINF:-1,ENG: Marauders.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1899.avi
-#EXTINF:-1,ENG: Manhattan.Night.2016.BDRip.x264-ROVERS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1898.mkv
-#EXTINF:-1,ENG: Love.and.Friendship.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1897.avi
-#EXTINF:-1,ENG: Looking.The.Movie.2016.WEBRip.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1896.avi
-#EXTINF:-1,ENG: Keanu.2016.BDRip.x264-DRONES.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1895.mkv
-#EXTINF:-1,ENG: Independence.Day.Resurgence.2016.HDRip.KORSUB.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1894.avi
-#EXTINF:-1,ENG: Ice.Sharks.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1893.avi
-#EXTINF:-1,ENG: Honeymoon.From.Hell.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1892.avi
-#EXTINF:-1,ENG: High.Strung.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1891.avi
-#EXTINF:-1,ENG: Gods.Not.Dead.2.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1890.avi
-#EXTINF:-1,ENG: Gernika.2016.HDRip.XviD.AC3-EVO.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1889.avi
-#EXTINF:-1,ENG: Garage.Sale.Mystery.The.Novel.Murders.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1888.avi
-#EXTINF:-1,ENG: For.Love.and.Honor.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1887.avi
-#EXTINF:-1,ENG: Flower.Shop.Mystery.Dearly.Depotted.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1886.avi
-#EXTINF:-1,ENG: Elvis.and.Nixon.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1885.avi
-#EXTINF:-1,ENG: Edge.of.Winter.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1884.avi
-#EXTINF:-1,ENG: Dear.Eleanor.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1883.avi
-#EXTINF:-1,ENG: Daylighm3u8.End.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1882.avi
-#EXTINF:-1,ENG: Criminal.2016.BDRip.x264-GECKOS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1881.mkv
-#EXTINF:-1,ENG: Confirmation.2016.BDRip.x264-ROVERS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1880.mkv
-#EXTINF:-1,ENG: Central.Intelligence.2016.HC.WEBRip.XviD-STUTTERSHIT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1879.avi
-#EXTINF:-1,ENG: Carnage.Park.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1878.avi
-#EXTINF:-1,ENG: Cabin.Fever.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1877.avi
-#EXTINF:-1,ENG: Beta.Test.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1876.avi
-#EXTINF:-1,ENG: Batman.The.Killing.Joke.2016.BDRip.x264-ROVERS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1875.mkv
-#EXTINF:-1,ENG: Barbershop.The.Next.Cut.2016.BDRip.x264-DRONES.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1874.mkv
-#EXTINF:-1,ENG: Atomic.Shark.2016.HDTV.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1873.avi
-#EXTINF:-1,ENG: Antboy.3.2016.HDRip.XviD.AC3-EVO.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1872.avi
-#EXTINF:-1,ENG: Anne.of.Green.Gables.2016.BRRip.XviD-RARBG.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1871.avi
-#EXTINF:-1,ENG: Angry.Birds.2016.BDRip.x264-GECKOS.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1870.mkv
-#EXTINF:-1,ENG: All.Girls.Weekend.2016.WEB-DL.XviD-FGT.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1869.avi
-#EXTINF:-1,ENG: A.Hologram.for.the.King.2016.BDRip.x264-DRONES.Buzlas
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1868.mkv
-#EXTINF:-1,DE:Zauberhafte Weihnachten
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1523.mkv
-#EXTINF:-1,DE:We are your Friends
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1470.mkv
-#EXTINF:-1,DE:We Are Still Here Haus des Grauens
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1471.mkv
-#EXTINF:-1,DE:Umrika 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1472.mkv
-#EXTINF:-1,DE:Turbo Kleine Schnecke grosser Traum
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1524.mkv
-#EXTINF:-1,DE:True Story Spiel um Macht
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1473.mkv
-#EXTINF:-1,DE:The.Nesting.Haus.Des.Grauens.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1474.mkv
-#EXTINF:-1,DE:The Walk Eine wahre Geschichte
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1475.mkv
-#EXTINF:-1,DE:The Visit 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1476.mkv
-#EXTINF:-1,DE:The Vatican Tapes 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1477.mkv
-#EXTINF:-1,DE:The Transporter Refueled
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1478.mkv
-#EXTINF:-1,DE:The Ridiculous 6 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1479.mkv
-#EXTINF:-1,DE:The Operator Eine Marble Hornem3u8 Story 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1480.mkv
-#EXTINF:-1,DE:The D Train 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1481.mkv
-#EXTINF:-1,DE:The Big Short
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1482.mkv
-#EXTINF:-1,DE:Ted 2 EXTENDED 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1483.mkv
-#EXTINF:-1,DE:Synchronicity 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1413.mp4
-#EXTINF:-1,DE:Straight.Outta.Compton.DIRECTORS.CUT.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1484.mkv
-#EXTINF:-1,DE:Star Wars Episode VII Das Erwachen der Macht  2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1485.mkv
-#EXTINF:-1,DE:Southpaw
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1486.mkv
-#EXTINF:-1,DE:Skin Traffik
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1487.mkv
-#EXTINF:-1,DE:Sinister 2
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1488.mkv
-#EXTINF:-1,DE:Sicario
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1489.mkv
-#EXTINF:-1,DE:Selfless Der Fremde in mir 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1490.mkv
-#EXTINF:-1,DE:Scooby.Doo.Durchgeknallt.im.All.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1526.mkv
-#EXTINF:-1,DE:robom3u8
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1528.mkv
-#EXTINF:-1,DE:Rico Oskar und das Herzgebreche
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1491.mkv
-#EXTINF:-1,DE:Ricki Wie Familie so ist
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1492.mkv
-#EXTINF:-1,DE:Picknick mit Baeren
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1494.mkv
-#EXTINF:-1,DE:Paranormal Activity Ghost Dimension EXTENDED CUT 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1495.mkv
-#EXTINF:-1,DE:Night of the Wild
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1496.mkv
-#EXTINF:-1,DE:Mordkommission Berlin 1 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1497.mkv
-#EXTINF:-1,DE:Molly Moon 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1498.mkv
-#EXTINF:-1,DE:Max
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1499.mkv
-#EXTINF:-1,DE:Mass.Effect.Paragon.Lost
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1531.mkv
-#EXTINF:-1,DE:Mariposa
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1532.mkv
-#EXTINF:-1,DE:Legend.V2.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1500.mkv
-#EXTINF:-1,DE:Legend of the Krays Teil 1 Der Aufstieg 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1501.mkv
-#EXTINF:-1,DE:Legend 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1502.mkv
-#EXTINF:-1,DE:Knock Knock
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1503.mkv
-#EXTINF:-1,DE:Knight of Cups
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1504.mkv
-#EXTINF:-1,DE:Kite.2014
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1584.mkv
-#EXTINF:-1,DE:James Bond 007 Spectre
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1505.mkv
-#EXTINF:-1,DE:Im.Winter.So.Schoen.German.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1506.mkv
-#EXTINF:-1,DE:Ich und Earl und das Maedchen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1507.mkv
-#EXTINF:-1,DE:Hitman Agent 47 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1508.mkv
-#EXTINF:-1,DE:Heil
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1509.mkv
-#EXTINF:-1,DE:Hedi Schneider steckt fest
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1510.mkv
-#EXTINF:-1,DE:Gallows Jede Schule hat ein Geheimnis 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1511.mkv
-#EXTINF:-1,DE:Fuer einen letzten Coup ist es nie zu spaet
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1469.mkv
-#EXTINF:-1,DE:Freistatt
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1512.mkv
-#EXTINF:-1,DE:Frei wie der Wind 2015 HAPPY NEW YEAR
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1513.mkv
-#EXTINF:-1,DE:Fantastic Four 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1514.mkv
-#EXTINF:-1,DE:EXQUiSiTE
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1466.mkv
-#EXTINF:-1,DE:Everest
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1515.mkv
-#EXTINF:-1,DE:Elfinchen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1537.mkv
-#EXTINF:-1,DE:Eine Weihnachm3u8geschichte
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1538.mkv
-#EXTINF:-1,DE:Eine Prinzessin im Rockstar Camp - Synced 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1560.mkv
-#EXTINF:-1,DE:Die Musketiere
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1546.mkv
-#EXTINF:-1,DE:Die geheime Tür
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1549.mkv
-#EXTINF:-1,DE:Der geheimnisvolle Pegasus
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1552.mkv
-#EXTINF:-1,DE:De Grot
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1535.mkv
-#EXTINF:-1,DE:Das Tagebuch
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1553.mkv
-#EXTINF:-1,DE:Dark Places
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1516.mkv
-#EXTINF:-1,DE:Crimson Peak
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1517.mkv
-#EXTINF:-1,DE:Codename U N C L E 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1518.mkv
-#EXTINF:-1,DE:Bridge of Spies
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1519.mkv
-#EXTINF:-1,DE:baymax
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1557.mkv
-#EXTINF:-1,DE:Asterix
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1561.mkv
-#EXTINF:-1,DE:Ashby
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1520.mkv
-#EXTINF:-1,DE:Aloha Die Chance auf Glueck 2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1521.mkv
-#EXTINF:-1,DE:Afflicted
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1522.mkv
-#EXTINF:-1,DE ANM:Strange Magic
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1525.mkv
-#EXTINF:-1,DE ANM:Schwanensee
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1527.mkv
-#EXTINF:-1,DE ANM:Rapunzel
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1529.mkv
-#EXTINF:-1,DE ANM:Pudsey Ein tierisch cooler Held
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1493.mkv
-#EXTINF:-1,DE ANM:Jagdfieber
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1533.mkv
-#EXTINF:-1,DE ANM:Frozen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1536.mkv
-#EXTINF:-1,DE ANM:Die verzauberten Ballett Schuhe
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1539.mkv
-#EXTINF:-1,DE ANM:Die Schneekoenigin 2
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1541.mkv
-#EXTINF:-1,DE ANM:Die Prinzessin der Tierinsel
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1545.mkv
-#EXTINF:-1,DE ANM:Der Nussknacker
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1551.mkv
-#EXTINF:-1,DE ANM:Barbie und ihre Schwestern in Das grosse Hundeabenteuer
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1558.mkv
-#EXTINF:-1,DE ANM:Barbie und ihre Schwestern im Pferdeglück
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1559.mkv
-#EXTINF:-1,DE ANM:Barbie Modezauber in Paris
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1530.mkv
-#EXTINF:-1,DE ANM:Barbie Die Superprinzessin
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1540.mkv
-#EXTINF:-1,DE ANM:Barbie Die Prinzessinnen Akademie
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1542.mkv
-#EXTINF:-1,DE ANM:Barbie Die Prinzessin und der Popstar
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1543.mkv
-#EXTINF:-1,DE ANM:Barbie Die Prinzessin und das Dorfmädchen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1544.mkv
-#EXTINF:-1,DE ANM:Barbie Die Magischen Perlen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1547.mkv
-#EXTINF:-1,DE ANM:Barbie Die geheime Welt der Glitzerfeen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1548.mkv
-#EXTINF:-1,DE ANM:Barbie Die 12 tanzenden Prinzessinnen
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1550.mkv
-#EXTINF:-1,DE ANM:Barbie Das Geheimnis von Oceana Teil 2
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1554.mkv
-#EXTINF:-1,DE ANM:Barbie Das Geheimnis von Oceana Teil 1
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1555.mkv
-#EXTINF:-1,DE ANM:Barbie Das Diamanm3u8chloss
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1556.mkv
-#EXTINF:-1,DE ANM:Alles steht Kopf
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1562.mkv
-#EXTINF:-1,3D:Kayip.Karincalar.Vadisi.2013
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1585.mkv
-#EXTINF:-1,3D:Hobbit.2012
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1586.mkv
-#EXTINF:-1,3D:Everest.2015
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1587.mkv
-#EXTINF:-1,3D:Edge.of.Tomorrow.2014
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1588.mkv
-#EXTINF:-1,3D:Dawn.of.the.Planet.of.the.Apes.2014
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1589.mkv
-#EXTINF:-1,3D:battle of the damned
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1590.mkv
-#EXTINF:-1,3D:AylrnKrllg.2014
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1591.mkv
-#EXTINF:-1,4K ULTRAHD Fury 2014
-http://guekiptv.com:8000/movie/bykasim/WqqPjqmv4h/1592.mkv
+#EXTINF:-1,TR I LIG TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/49.ts
+#EXTINF:-1,TR | DISCOVERY CHANNEL HD - D-ssmart
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1825.ts
+#EXTINF:-1,TR | EUROSPORT HD (FILBOX )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1824.ts
+#EXTINF:-1,TR | FILMBOX HD-D-Smart
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1821.ts
+#EXTINF:-1,TR | DSMART FX
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4663.ts
+#EXTINF:-1,TR | FIL TV(FILBOX)
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1827.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD - D-Smart
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1820.ts
+#EXTINF:-1,TR | Movies Platin 2 HD - D-Smart
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1823.ts
+#EXTINF:-1,TR | SINEMA TV ( FILBOX)
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1826.ts
+#EXTINF:-1,TR | ID Xtra Europe HD-digiturk-KDM
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1822.ts
+#EXTINF:-1,TR | YESILCAM 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/123.ts
+#EXTINF:-1,TR | YESILCAM 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/122.ts
+#EXTINF:-1,TR | A HABER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/96.ts
+#EXTINF:-1,TR | A HABER HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/67.ts
+#EXTINF:-1,TR | A SPOR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/58.ts
+#EXTINF:-1,TR | A SPOR HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/95.ts
+#EXTINF:-1,TR | ANIMASYON HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/114.ts
+#EXTINF:-1,TR | ATV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/93.ts
+#EXTINF:-1,TR | ATV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/66.ts
+#EXTINF:-1,TR | BEYAZ TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/56.ts
+#EXTINF:-1,TR | BEYAZ TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/65.ts
+#EXTINF:-1,TR | BLOOMBERG TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/83.ts
+#EXTINF:-1,TR | CAY TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/53.ts
+#EXTINF:-1,TR | CNN TURK HABER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/84.ts
+#EXTINF:-1,TR | HABER TURK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/2786.ts
+#EXTINF:-1,TR | DIZISMART PLATIN DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/107.ts
+#EXTINF:-1,TR | EGE TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/54.ts
+#EXTINF:-1,TR | FILM TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/116.ts
+#EXTINF:-1,TR | FLASH TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/55.ts
+#EXTINF:-1,TR | FOX HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/64.ts
+#EXTINF:-1,TR | FOX TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/80.ts
+#EXTINF:-1,TR | HALK TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/99.ts
+#EXTINF:-1,TR | VIASAT NATURE/HISTORY CH HD Filbox
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/102.ts
+#EXTINF:-1,TR | KANAL 7
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/70.ts
+#EXTINF:-1,TR | KANAL 7 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/69.ts
+#EXTINF:-1,TR | KANAL D
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/79.ts
+#EXTINF:-1,TR | KANAL D HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/68.ts
+#EXTINF:-1,TR | LIGTV 1 H.265.HVEC
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/2785.ts
+#EXTINF:-1,TR I LIG TV 1  HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3150.ts
+#EXTINF:-1,TR | LIGTV 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/135.ts
+#EXTINF:-1,TR | LIG TV 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/134.ts
+#EXTINF:-1,TR | LIG TV 3 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/133.ts
+#EXTINF:-1,TR | LIGTV 4 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/132.ts
+#EXTINF:-1,TR | LOCA 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/121.ts
+#EXTINF:-1,TR | LOCA 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/120.ts
+#EXTINF:-1,TR | LOCA 3 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/119.ts
+#EXTINF:-1,TR | DIZI PREMIUM HD DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/109.ts
+#EXTINF:-1,TR | MINIKA COCUK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/82.ts
+#EXTINF:-1,TR | BOOMERANG COCUK DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3105.ts
+#EXTINF:-1,TR | SMART COCUK DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3106.ts
+#EXTINF:-1,TR | DISNEY CHANNEL
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4671.ts
+#EXTINF:-1,TR | MINIKA GO
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/81.ts
+#EXTINF:-1,TR I NAT GEO PEOPLE HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/108.ts
+#EXTINF:-1,TR | DIZI TV HD FILBOX
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/106.ts
+#EXTINF:-1,TR | MOVIEMAX COMEDY HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/104.ts
+#EXTINF:-1,TR | MOVIEMAX FAMILY HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/111.ts
+#EXTINF:-1,TR I NATIONAL GEOPRAFIC HD ( DIGITURK )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/105.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/110.ts
+#EXTINF:-1,TR | MOVIEMAX PREMIER HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/130.ts
+#EXTINF:-1,TR I NAT GEO HD ( DIGITURK )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/112.ts
+#EXTINF:-1,TR | MOVIEMAX TURK HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/117.ts
+#EXTINF:-1,TR | MOVIESMART TURK HD ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/118.ts
+#EXTINF:-1,TR | SINEMATV AKSIYON HD ( FILBOX )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/2787.ts
+#EXTINF:-1,TR I History HD TR ( DIGITURK )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/101.ts
+#EXTINF:-1,TR | BBC Earth HD-dsmart
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/100.ts
+#EXTINF:-1,TR | NBA TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/89.ts
+#EXTINF:-1,TR | NTV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/98.ts
+#EXTINF:-1,TR | NTV SPOR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/78.ts
+#EXTINF:-1,TR | NTV SPOR HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/97.ts
+#EXTINF:-1,TR | NUMBER ONE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/51.ts
+#EXTINF:-1,TR | POWERTURK HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4657.ts
+#EXTINF:-1,TR | KRAL TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4658.ts
+#EXTINF:-1,TR | SALON 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/129.ts
+#EXTINF:-1,TR | SALON 2  HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/128.ts
+#EXTINF:-1,TR | SALON 3 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/127.ts
+#EXTINF:-1,TR I SALON 3D HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3108.ts
+#EXTINF:-1,TR | EUROSPORT 2 HD ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/103.ts
+#EXTINF:-1,TR | SHOW TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/90.ts
+#EXTINF:-1,TR | SHOW TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/63.ts
+#EXTINF:-1,TR | SINE TV HD ( TIVIBU )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/113.ts
+#EXTINF:-1,TR | SMART SPOR 1 ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/85.ts
+#EXTINF:-1,TR | SMART SPOR 2 ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/86.ts
+#EXTINF:-1,TR | STAR TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/91.ts
+#EXTINF:-1,TR | STAR TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/62.ts
+#EXTINF:-1,TR | TIVIBU SPOR 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/87.ts
+#EXTINF:-1,TR | TIVIBU SPOR 3 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/126.ts
+#EXTINF:-1,TR | TIVIBU SPOR 4 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/125.ts
+#EXTINF:-1,TR | TIVIBU SPOR HD 2
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/88.ts
+#EXTINF:-1,AR | BEIN SPORT 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3195.ts
+#EXTINF:-1,AR | BEIN SPORT 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3196.ts
+#EXTINF:-1,TR | TLC
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/74.ts
+#EXTINF:-1,TR | TRT 1
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/94.ts
+#EXTINF:-1,TR | TRT 1 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/77.ts
+#EXTINF:-1,TR | TRT 3 SPOR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/61.ts
+#EXTINF:-1,TR | TRT BELGESEL HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/71.ts
+#EXTINF:-1,TR | TRT COCUK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/73.ts
+#EXTINF:-1,TR | TRT HABER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/72.ts
+#EXTINF:-1,TR | TRT MUZIK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/57.ts
+#EXTINF:-1,TR | TRT SPOR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/76.ts
+#EXTINF:-1,TR | TRT SPOR HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/60.ts
+#EXTINF:-1,TR | TV 2
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/75.ts
+#EXTINF:-1,TR | TV8
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/92.ts
+#EXTINF:-1,TR | TV8 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/59.ts
+#EXTINF:-1,TR | TV8.5
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3107.ts
+#EXTINF:-1,TR | VIP CHANNEL 2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/115.ts
+#EXTINF:-1,TR | VIP CHANNEL HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/131.ts
+#EXTINF:-1,TR | VIP CHANNEL TURK HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/124.ts
+#EXTINF:-1,TR I 24 KITCHEN HD ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4673.ts
+#EXTINF:-1,TR I FOX CRIME HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4672.ts
+#EXTINF:-1,TR I FX DIZI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4674.ts
+#EXTINF:-1,TR | YABAN TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/50.ts
+#EXTINF:-1,TR | VIVA TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1841.ts
+#EXTINF:-1,TR | SPORTS TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1834.ts
+#EXTINF:-1,TR | Sinetivi Karnaval HD FILBOX
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1831.ts
+#EXTINF:-1,TR | Sinetivi HD FILBOX
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1832.ts
+#EXTINF:-1,TR | DIZIMAX SCI-FI ( DIGITURK ) u
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1842.ts
+#EXTINF:-1,TR | SEMERKAND TV HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1843.ts
+#EXTINF:-1,TR | PLANET TURK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1844.ts
+#EXTINF:-1,TR | PLANET PEMBE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1845.ts
+#EXTINF:-1,TR | PLANET MUTFAK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1846.ts
+#EXTINF:-1,TR | PLANET COCUK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1847.ts
+#EXTINF:-1,TR | NUMBER ONE TURK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1849.ts
+#EXTINF:-1,TR | National Geographic Wild
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1837.ts
+#EXTINF:-1,TR | MOVIE PREMIUM HD DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1833.ts
+#EXTINF:-1,TR | Movie Platin 2 HD DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1838.ts
+#EXTINF:-1,TR | MOVIE GOLD DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1830.ts
+#EXTINF:-1,TR | MOVIE FAMILY DSMART
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1829.ts
+#EXTINF:-1,TR | KANAL CAY
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1848.ts
+#EXTINF:-1,TR | GS TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1840.ts
+#EXTINF:-1,TR | FB TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1835.ts
+#EXTINF:-1,TR | BJK TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/2775.ts
+#EXTINF:-1,TR | MOVIE PREMIUM 2 HD ( DSMART )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1839.ts
+#EXTINF:-1,TR | BABY TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1828.ts
+#EXTINF:-1,TR | Animal Planet
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/1836.ts
+#EXTINF:-1,TR | ULUSAL TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4261.ts
+#EXTINF:-1,TR | TRT KURDI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4264.ts
+#EXTINF:-1,TR I FOX LIFE HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4262.ts
+#EXTINF:-1,TR | IZ TV ( DIJITURK )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4259.ts
+#EXTINF:-1,TR | IP Mutfak
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4265.ts
+#EXTINF:-1,TR | BURSASPOR  TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4260.ts
+#EXTINF:-1,TR | RUMELI TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4662.ts
+#EXTINF:-1,TR I CEM TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4263.ts
+#EXTINF:-1,TR I TBMM TV
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4656.ts
+#EXTINF:-1,TR I SKY 360
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4267.ts
+#EXTINF:-1,TR I A2 HD
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4268.ts
+#EXTINF:-1,TR I DIZIMAX COMEDY HD ( DIGITURK )
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/4269.ts
+#EXTINF:-1,TR | ICERDE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3123.ts
+#EXTINF:-1,TR | YETER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3131.ts
+#EXTINF:-1,TR | BABAM VE A?LES?
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3114.ts
+#EXTINF:-1,TR | TATLI INTIKAM
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3117.ts
+#EXTINF:-1,TR | BODRUM MASALI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3122.ts
+#EXTINF:-1,TR | SEVDA KUSUN KANADINDA
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3142.ts
+#EXTINF:-1,TR | SEKSENLER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3124.ts
+#EXTINF:-1,TR | POYRAZ KARAYEL
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3135.ts
+#EXTINF:-1,TR | PARAMPARCA
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3111.ts
+#EXTINF:-1,TR | VATANIM SENS?N
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3112.ts
+#EXTINF:-1,TR | O SES TURKIYE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3137.ts
+#EXTINF:-1,TR | O HAYAT BEN?M
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3125.ts
+#EXTINF:-1,TR | KARA SEVDA
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3138.ts
+#EXTINF:-1,TR | MÜDÜR NE YAPTIN
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3127.ts
+#EXTINF:-1,TR | MUHTESEM YUZYIL KOSEM
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3148.ts
+#EXTINF:-1,TR | KURTLAR VADISI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3144.ts
+#EXTINF:-1,TR | KORDUGUM
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3129.ts
+#EXTINF:-1,TR | KIRGIN CICEKLER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3146.ts
+#EXTINF:-1,TR | KIRALIK ASK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3109.ts
+#EXTINF:-1,TR | KERTENKELE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3140.ts
+#EXTINF:-1,TR | YUZYILLIK MUHUR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3139.ts
+#EXTINF:-1,TR | KARAGUL
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3132.ts
+#EXTINF:-1,TR | ILISKI DURUMU EVLI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3116.ts
+#EXTINF:-1,TR | HAYAT SARKISI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3115.ts
+#EXTINF:-1,TR | GULUMSE YETER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3141.ts
+#EXTINF:-1,TR | GULDUR GULDUR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3133.ts
+#EXTINF:-1,TR | HAYATIMIN ASKI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3118.ts
+#EXTINF:-1,TR | YUKSEK SOSYETE
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3121.ts
+#EXTINF:-1,TR | FAMILYA
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3128.ts
+#EXTINF:-1,TR | ESKIYA DUNYAYA HUKUMDAR OLMAZ
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3143.ts
+#EXTINF:-1,TR | DIRILIS ERTUGRUL
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3136.ts
+#EXTINF:-1,TR | ASK LAFTAN ANLAMAZ
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3149.ts
+#EXTINF:-1,TR | RUZGARIN KALBI
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3126.ts
+#EXTINF:-1,TR | SEV?YOR SEVM?YOR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3130.ts
+#EXTINF:-1,TR | CESUR YUREK
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3134.ts
+#EXTINF:-1,TR | ASK YENIDEN
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3120.ts
+#EXTINF:-1,TR | ASK YALANI SEVER
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3113.ts
+#EXTINF:-1,TR | ARKA SOKAKLAR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3119.ts
+#EXTINF:-1,TR | KALBIMDE KI DENIZ
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3145.ts
+#EXTINF:-1,TR | BABA CANDIR
+http://biwsat.com:8080/live/2Fhx0z1U6u/BiOET0tsaz/3110.ts
+#EXTINF:-1,TR VOD | Atesin Dustugu Yer
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5624.mp4
+#EXTINF:-1,TR VOD | Babamin Sesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5625.mp4
+#EXTINF:-1,TR VOD | Behzat C. Seni Kalbime Gomdum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5632.mp4
+#EXTINF:-1,TR VOD | Buyu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5634.mp4
+#EXTINF:-1,TR VOD | Dabbe
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5643.mp4
+#EXTINF:-1,TR VOD | Dag
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5644.mp4
+#EXTINF:-1,TR VOD | Dedemin insanlari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5645.mp4
+#EXTINF:-1,TR VOD | Denizden Gelen
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5646.mp4
+#EXTINF:-1,TR VOD | Eksik Sayfalar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5647.mp4
+#EXTINF:-1,TR VOD | El-Cin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5648.mp4
+#EXTINF:-1,TR VOD | Elveda Katya
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5649.mp4
+#EXTINF:-1,TR VOD | Entel Koy Efe Koye Karsi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5650.mp4
+#EXTINF:-1,TR VOD | Eve Giden Yol 1914
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5651.mp4
+#EXTINF:-1,TR VOD | Evim Sensin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5652.mp4
+#EXTINF:-1,TR VOD | Film
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5653.mp4
+#EXTINF:-1,TR VOD | G.D.O KaraKedi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5654.mp4
+#EXTINF:-1,TR VOD | Gemide
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5655.mp4
+#EXTINF:-1,TR VOD | Golgesizler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5656.mp4
+#EXTINF:-1,TR VOD | Gomeda
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5657.mp4
+#EXTINF:-1,TR VOD | Gorev
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5658.mp4
+#EXTINF:-1,TR VOD | Gorunmeyenler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5659.mp4
+#EXTINF:-1,TR VOD | Gozetleme Kulesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5660.mp4
+#EXTINF:-1,TR VOD | Guz Sancisi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5662.mp4
+#EXTINF:-1,TR VOD | Guzel Gunler Gorcegiz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5663.mp4
+#EXTINF:-1,TR VOD | Guzelligin onpar Etmez
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5664.mp4
+#EXTINF:-1,TR VOD | Harbi Define
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5665.mp4
+#EXTINF:-1,TR VOD | Hayattan Korkma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5667.mp4
+#EXTINF:-1,TR VOD | Hile Yolu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5668.mp4
+#EXTINF:-1,TR VOD | Hititya Madalyonun Sirri
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5669.mp4
+#EXTINF:-1,TR VOD | Hukumet Kadin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5670.mp4
+#EXTINF:-1,TR VOD | Iki Kafadar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5671.mp4
+#EXTINF:-1,TR VOD | Iz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5673.mp4
+#EXTINF:-1,TR VOD | Japonyali Gelin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5674.mp4
+#EXTINF:-1,TR VOD | Jin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5675.mp4
+#EXTINF:-1,TR VOD | Kadrinin goturduguyere git
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5676.mp4
+#EXTINF:-1,TR VOD | Kaledeki Yalnizlik (1)
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5677.mp4
+#EXTINF:-1,TR VOD | Kanalizasyon
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5678.mp4
+#EXTINF:-1,TR VOD | Karaoglan
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5681.mp4
+#EXTINF:-1,TR VOD | Karnaval
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5682.mp4
+#EXTINF:-1,TR VOD | Kaybedenler Kulubu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5683.mp4
+#EXTINF:-1,TR VOD | Kelebegin Ruyasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5684.mp4
+#EXTINF:-1,TR VOD | Keloglan Kara Prense Karsi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5685.mp4
+#EXTINF:-1,TR VOD | Kilit
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5686.mp4
+#EXTINF:-1,TR VOD | Kirik Midyeler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5687.mp4
+#EXTINF:-1,TR VOD | Kod Adi Venus
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5688.mp4
+#EXTINF:-1,TR VOD | Kogus Akademisi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5689.mp4
+#EXTINF:-1,TR VOD | Kolpacino Bomba
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5690.mp4
+#EXTINF:-1,TR VOD | Korkuyorum Anne
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5691.mp4
+#EXTINF:-1,TR VOD | Kral Yolu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5692.mp4
+#EXTINF:-1,TR VOD | Kuf
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5693.mp4
+#EXTINF:-1,TR VOD | Kurtlar Vadiisi Filistin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5694.mp4
+#EXTINF:-1,TR VOD | Lal Gece 2012
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5695.mp4
+#EXTINF:-1,TR VOD | Laz Vampir Tirakula
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5696.mp4
+#EXTINF:-1,TR VOD | Mar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5697.mp4
+#EXTINF:-1,TR VOD | Maskeli Besler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5698.mp4
+#EXTINF:-1,TR VOD | Mavi Pansiyon
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5699.mp4
+#EXTINF:-1,TR VOD | Merdiven Alti
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5700.mp4
+#EXTINF:-1,TR VOD | Meryem
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5701.mp4
+#EXTINF:-1,TR VOD | Mezuniyet
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5702.mp4
+#EXTINF:-1,TR VOD | Moskovanin Sifresi Temel
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5704.mp4
+#EXTINF:-1,TR VOD | Mum Kokulu Kadinlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5705.mp4
+#EXTINF:-1,TR VOD | Munferit
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5706.mp4
+#EXTINF:-1,TR VOD | Muro
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5707.mp4
+#EXTINF:-1,TR VOD | Musallat
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5708.mp4
+#EXTINF:-1,TR VOD | Mutlu Bir Aile Defteri
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5709.mp4
+#EXTINF:-1,TR VOD | Napcaz Simdi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5710.mp4
+#EXTINF:-1,TR VOD | Nekrut
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5711.mp4
+#EXTINF:-1,TR VOD | O Kadin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5712.mp4
+#EXTINF:-1,TR VOD | O Simdi Mahkum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5714.mp4
+#EXTINF:-1,TR VOD | Oglum Bak Git
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5716.mp4
+#EXTINF:-1,TR VOD | Oyle Sevdimki Seni
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5717.mp4
+#EXTINF:-1,TR VOD | Pandoranin Kutusu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5718.mp4
+#EXTINF:-1,TR VOD | Patlak Sokaklar Gerzomat
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5719.mp4
+#EXTINF:-1,TR VOD | Pazarlari Hic Sevmem
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5720.mp4
+#EXTINF:-1,TR VOD | Pes Pese
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5721.mp4
+#EXTINF:-1,TR VOD | Pus
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5722.mp4
+#EXTINF:-1,TR VOD | Recep ivedik 3
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5723.mp4
+#EXTINF:-1,TR VOD | Romantik Komedi 2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5724.mp4
+#EXTINF:-1,TR VOD | Rus Gelin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5725.mp4
+#EXTINF:-1,TR VOD | Sabit Kanca
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5726.mp4
+#EXTINF:-1,TR VOD | Sac
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5727.mp4
+#EXTINF:-1,TR VOD | Sakli Hayatlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5728.mp4
+#EXTINF:-1,TR VOD | Ammar Cin Tarikati
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5731.mp4
+#EXTINF:-1,TR VOD | 11'e 10 Kala
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5135.mp4
+#EXTINF:-1,TR VOD | 3 Harfliler Marid
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5136.mp4
+#EXTINF:-1,TR VOD | 7 Kocali Hurmuz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5221.mp4
+#EXTINF:-1,TR VOD | 72 Kogus
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5222.mp4
+#EXTINF:-1,TR VOD | Abuzer Kadayif
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5223.mp4
+#EXTINF:-1,TR VOD | Adelet Oyunu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5137.mp4
+#EXTINF:-1,TR VOD | Anka Kusu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5138.mp4
+#EXTINF:-1,TR VOD | Arkadas
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5139.mp4
+#EXTINF:-1,TR VOD | Ask Geliyorum Demez
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5140.mp4
+#EXTINF:-1,TR VOD | Ask Tesadufleri Sever
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5141.mp4
+#EXTINF:-1,TR VOD | Ask ve Devrim
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5224.mp4
+#EXTINF:-1,TR VOD | Askin Ikinci Yarisi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5142.mp4
+#EXTINF:-1,TR VOD | Atli Karinca
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5225.mp4
+#EXTINF:-1,TR VOD | Ay Lav Yu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5143.mp4
+#EXTINF:-1,TR VOD | Ayrillik
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5226.mp4
+#EXTINF:-1,TR VOD | Babam Bufe
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5144.mp4
+#EXTINF:-1,TR VOD | Bal
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5145.mp4
+#EXTINF:-1,TR VOD | Balalayka
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5146.mp4
+#EXTINF:-1,TR VOD | Baska Semtin Cocuklari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5227.mp4
+#EXTINF:-1,TR VOD | Bendeyar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5228.mp4
+#EXTINF:-1,TR VOD | Beni Unutma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5229.mp4
+#EXTINF:-1,TR VOD | Benim Ve Rozun Sonbahari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5147.mp4
+#EXTINF:-1,TR VOD | Beyaz Melek
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5148.mp4
+#EXTINF:-1,TR VOD | Bir Avuc Deniz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5149.mp4
+#EXTINF:-1,TR VOD | Bir Ses Boler Geceyi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5230.mp4
+#EXTINF:-1,TR VOD | Bizim Buyuk Caresizligimiz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5150.mp4
+#EXTINF:-1,TR VOD | Bornova Bornova
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5151.mp4
+#EXTINF:-1,TR VOD | Boynu Bukukler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5231.mp4
+#EXTINF:-1,TR VOD | Bu Son Olsun
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5232.mp4
+#EXTINF:-1,TR VOD | Bulutlari Beklerken
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5233.mp4
+#EXTINF:-1,TR VOD | Busra
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5152.mp4
+#EXTINF:-1,TR VOD | Buyuk Oyun
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5234.mp4
+#EXTINF:-1,TR VOD | Cakal
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5235.mp4
+#EXTINF:-1,TR VOD | Camur
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5236.mp4
+#EXTINF:-1,TR VOD | Can
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5237.mp4
+#EXTINF:-1,TR VOD | Can Tertip
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5126.mp4
+#EXTINF:-1,TR VOD | Cehennem
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5153.mp4
+#EXTINF:-1,TR VOD | Cemalim
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5154.mp4
+#EXTINF:-1,TR VOD | Cennet
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5155.mp4
+#EXTINF:-1,TR VOD | Cenneti Beklerken
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5156.mp4
+#EXTINF:-1,TR VOD | Cinar Agaci
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5157.mp4
+#EXTINF:-1,TR VOD | Cingirakli Top
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5158.mp4
+#EXTINF:-1,TR VOD | Cok Film Hareketler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5159.mp4
+#EXTINF:-1,TR VOD | Cumhurbaskani Oteki Turkiyede
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5160.mp4
+#EXTINF:-1,TR VOD | Deliler Raporu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5238.mp4
+#EXTINF:-1,TR VOD | Dersimiz Ataturk
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5161.mp4
+#EXTINF:-1,TR VOD | Devrimden Sonra
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5239.mp4
+#EXTINF:-1,TR VOD | Dilberin Sekiz Gunu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5162.mp4
+#EXTINF:-1,TR VOD | En Guzeli
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5127.mp4
+#EXTINF:-1,TR VOD | Eski Sevgiliyi Unutmanin 10 Yolu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5128.mp4
+#EXTINF:-1,TR VOD | Esrefpasalilar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5163.mp4
+#EXTINF:-1,TR VOD | Esruhumun Eszamani
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5240.mp4
+#EXTINF:-1,TR VOD | Eylul
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5241.mp4
+#EXTINF:-1,TR VOD | Eyvah Eyvah 2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5164.mp4
+#EXTINF:-1,TR VOD | Gece 11.45
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5242.mp4
+#EXTINF:-1,TR VOD | Gecenin Kanatlari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5165.mp4
+#EXTINF:-1,TR VOD | Gelecek Uzun Surer
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5243.mp4
+#EXTINF:-1,TR VOD | Gelecekten Bir Gun
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5244.mp4
+#EXTINF:-1,TR VOD | Genis Aile
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5129.mp4
+#EXTINF:-1,TR VOD | Gunesi Gordum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5166.mp4
+#EXTINF:-1,TR VOD | Guruldayan Kalpler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5130.mp4
+#EXTINF:-1,TR VOD | Hadigari Cumhur
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5167.mp4
+#EXTINF:-1,TR VOD | Hamam
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5168.mp4
+#EXTINF:-1,TR VOD | Havar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5169.mp4
+#EXTINF:-1,TR VOD | Hayat Var
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5170.mp4
+#EXTINF:-1,TR VOD | Hazan Mevsimi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5171.mp4
+#EXTINF:-1,TR VOD | Her Sey Cok Guzel Olacak
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5172.mp4
+#EXTINF:-1,TR VOD | Hur Adam Bediuzzaman Said Nursi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5173.mp4
+#EXTINF:-1,TR VOD | Inat Hikayeleri
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5174.mp4
+#EXTINF:-1,TR VOD | Incir Cekirdegi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5175.mp4
+#EXTINF:-1,TR VOD | Janjan
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5176.mp4
+#EXTINF:-1,TR VOD | Kaledeki Yanlizlik
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5177.mp4
+#EXTINF:-1,TR VOD | Kampusteki Ciplak Ayaklar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5178.mp4
+#EXTINF:-1,TR VOD | Kaptan Feza
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5179.mp4
+#EXTINF:-1,TR VOD | Karanliktakiler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5180.mp4
+#EXTINF:-1,TR VOD | Kelebek
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5181.mp4
+#EXTINF:-1,TR VOD | Kirmizi 2015
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5131.mp4
+#EXTINF:-1,TR VOD | Kiz kardesim Monno
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5182.mp4
+#EXTINF:-1,TR VOD | Kubilay
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5183.mp4
+#EXTINF:-1,TR VOD | Kurtlar Vadisi Irak
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5184.mp4
+#EXTINF:-1,TR VOD | Kutsal Damacana Dracula
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5185.mp4
+#EXTINF:-1,TR VOD | Kutsal Damacana Itmen
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5186.mp4
+#EXTINF:-1,TR VOD | Lodos
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5187.mp4
+#EXTINF:-1,TR VOD | Made in Europe
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5188.mp4
+#EXTINF:-1,TR VOD | Mahpeyker
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5189.mp4
+#EXTINF:-1,TR VOD | Mavi Gozlu Dev
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5190.mp4
+#EXTINF:-1,TR VOD | Melekler Ve Kumarbazlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5191.mp4
+#EXTINF:-1,TR VOD | Memleket Meslesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5192.mp4
+#EXTINF:-1,TR VOD | Merdiven Baba
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5132.mp4
+#EXTINF:-1,TR VOD | Misafir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5193.mp4
+#EXTINF:-1,TR VOD | Mustang 2015
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5133.mp4
+#EXTINF:-1,TR VOD | New Yorkta Bes Minare
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5194.mp4
+#EXTINF:-1,TR VOD | Nokta
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5195.mp4
+#EXTINF:-1,TR VOD | O Simdi Asker
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5196.mp4
+#EXTINF:-1,TR VOD | O....Cocuklari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5197.mp4
+#EXTINF:-1,TR VOD | Of Karadeniz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5198.mp4
+#EXTINF:-1,TR VOD | Osmanli Cumhuriyeti
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5199.mp4
+#EXTINF:-1,TR VOD | Paramparca
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5200.mp4
+#EXTINF:-1,TR VOD | Piyasadan BuyukAlacagimizVar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5134.mp4
+#EXTINF:-1,TR VOD | Plajda
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5201.mp4
+#EXTINF:-1,TR VOD | Prensesin Uykusu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5202.mp4
+#EXTINF:-1,TR VOD | Recep ivedik 1
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5203.mp4
+#EXTINF:-1,TR VOD | Romantik Komedi Ask Tadinda
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5204.mp4
+#EXTINF:-1,TR VOD | Salkim Hanimin Taneleri
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5205.mp4
+#EXTINF:-1,TR VOD | Saskin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5206.mp4
+#EXTINF:-1,TR VOD | Seni Seviyorum Rosa
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5207.mp4
+#EXTINF:-1,TR VOD | Sicak
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5208.mp4
+#EXTINF:-1,TR VOD | Siyah Beyaz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5209.mp4
+#EXTINF:-1,TR VOD | Sonbahar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5211.mp4
+#EXTINF:-1,TR VOD | Teslimiyet
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5212.mp4
+#EXTINF:-1,TR VOD | Turkler Cildirmis Olmali
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5213.mp4
+#EXTINF:-1,TR VOD | Usta
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5214.mp4
+#EXTINF:-1,TR VOD | Ya Sonra
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5215.mp4
+#EXTINF:-1,TR VOD | Yagmurdan Sonra
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5216.mp4
+#EXTINF:-1,TR VOD | Yahsi Bati
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5217.mp4
+#EXTINF:-1,TR VOD | Yetmis ikinci Kogus
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5218.mp4
+#EXTINF:-1,TR VOD | Yuregine Sor
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5219.mp4
+#EXTINF:-1,TR VOD | Zeynepin Sekiz Gunu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5220.mp4
+#EXTINF:-1,TR VOD | Gise Memuru
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5571.mp4
+#EXTINF:-1,TR VOD | Gulum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5572.mp4
+#EXTINF:-1,TR VOD | Hababam Sinifi Merhaba
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5573.mp4
+#EXTINF:-1,TR VOD | Hacivat Karagoz Neden Olduruldu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5574.mp4
+#EXTINF:-1,TR VOD | Hop Dedik
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5575.mp4
+#EXTINF:-1,TR VOD | iki Cizgi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5607.mp4
+#EXTINF:-1,TR VOD | iklimler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5608.mp4
+#EXTINF:-1,TR VOD | ilk Ask
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5609.mp4
+#EXTINF:-1,TR VOD | incir Receli
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5610.mp4
+#EXTINF:-1,TR VOD | Kabadayi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5576.mp4
+#EXTINF:-1,TR VOD | Kagit
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5577.mp4
+#EXTINF:-1,TR VOD | Kar Beyaz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5578.mp4
+#EXTINF:-1,TR VOD | Karadedeler Olayi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5579.mp4
+#EXTINF:-1,TR VOD | Karanliktan Karanliga
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5580.mp4
+#EXTINF:-1,TR VOD | Karsilasma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5581.mp4
+#EXTINF:-1,TR VOD | Kisik Ateste 15 Dakika
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5582.mp4
+#EXTINF:-1,TR VOD | Kucuk Gunahlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5583.mp4
+#EXTINF:-1,TR VOD | Kurtulus Son Durak
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5584.mp4
+#EXTINF:-1,TR VOD | Labirent
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5585.mp4
+#EXTINF:-1,TR VOD | Maskeli Besler Irak
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5586.mp4
+#EXTINF:-1,TR VOD | Maskeli Besler Kibris
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5587.mp4
+#EXTINF:-1,TR VOD | Muhurlu Kosk
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5588.mp4
+#EXTINF:-1,TR VOD | Nar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5589.mp4
+#EXTINF:-1,TR VOD | Neseli Hayat
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5590.mp4
+#EXTINF:-1,TR VOD | O Da Beni Seviyor
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5591.mp4
+#EXTINF:-1,TR VOD | Pak Panter
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5592.mp4
+#EXTINF:-1,TR VOD | Pars Kiraz Operasyonu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5593.mp4
+#EXTINF:-1,TR VOD | Peri Tozu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5594.mp4
+#EXTINF:-1,TR VOD | Press
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5595.mp4
+#EXTINF:-1,TR VOD | Sevgilim istanbul
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5596.mp4
+#EXTINF:-1,TR VOD | Suna
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5597.mp4
+#EXTINF:-1,TR VOD | Supurrr
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5598.mp4
+#EXTINF:-1,TR VOD | Turkan
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5599.mp4
+#EXTINF:-1,TR VOD | Vavien
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5600.mp4
+#EXTINF:-1,TR VOD | Yanlis Zaman Yolculari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5601.mp4
+#EXTINF:-1,TR VOD | Zenne Dancer
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5606.mp4
+#EXTINF:-1,TR VOD | Yasam?n K?y?s?nda
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5604.mp4
+#EXTINF:-1,TR VOD | Yaz? Tura
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5602.mp4
+#EXTINF:-1,TR VOD | Yolculuk
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5603.mp4
+#EXTINF:-1,TR VOD | Anlat istanbul
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5732.mp4
+#EXTINF:-1,TR VOD | Arkadaslar Arasinda
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5733.mp4
+#EXTINF:-1,TR VOD | Ask Oyunu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5734.mp4
+#EXTINF:-1,TR VOD | Ayaz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5735.mp4
+#EXTINF:-1,TR VOD | Balayi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5736.mp4
+#EXTINF:-1,TR VOD | Bana Sans Dile
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5737.mp4
+#EXTINF:-1,TR VOD | Benim Dunyam
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5738.mp4
+#EXTINF:-1,TR VOD | Benimle Oynarmisin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5739.mp4
+#EXTINF:-1,TR VOD | Betondaki Catlaklar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5740.mp4
+#EXTINF:-1,TR VOD | Beynelmilel
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5741.mp4
+#EXTINF:-1,TR VOD | Beyzanin Kadinlari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5742.mp4
+#EXTINF:-1,TR VOD | Bir Kucuk Eylul Meselesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5743.mp4
+#EXTINF:-1,TR VOD | Bizim Hoca
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5744.mp4
+#EXTINF:-1,TR VOD | Bu iste Bir Yalnizlik Var
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5745.mp4
+#EXTINF:-1,TR VOD | Cakallarla Dans
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5746.mp4
+#EXTINF:-1,TR VOD | Cilgin Dersane
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5747.mp4
+#EXTINF:-1,TR VOD | Cilgin Dershane 3
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5748.mp4
+#EXTINF:-1,TR VOD | Cocuk
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5749.mp4
+#EXTINF:-1,TR VOD | Daire
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5750.mp4
+#EXTINF:-1,TR VOD | Deli Deli Olma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5751.mp4
+#EXTINF:-1,TR VOD | Devir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5752.mp4
+#EXTINF:-1,TR VOD | Devrim Arabalari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5753.mp4
+#EXTINF:-1,TR VOD | Dun Gece Bir Ruya Gordum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5754.mp4
+#EXTINF:-1,TR VOD | Durmus Cavus
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5755.mp4
+#EXTINF:-1,TR VOD | Ejder Kapani
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5756.mp4
+#EXTINF:-1,TR VOD | Erkekler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5757.mp4
+#EXTINF:-1,TR VOD | Fedakar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5758.mp4
+#EXTINF:-1,TR VOD | Ferahfeza
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5759.mp4
+#EXTINF:-1,TR VOD | Gen
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5760.mp4
+#EXTINF:-1,TR VOD | Girdap
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5761.mp4
+#EXTINF:-1,TR VOD | Gonul Yarasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5762.mp4
+#EXTINF:-1,TR VOD | Gulcemal
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5763.mp4
+#EXTINF:-1,TR VOD | Gulyabani
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5764.mp4
+#EXTINF:-1,TR VOD | Gunce
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5765.mp4
+#EXTINF:-1,TR VOD | Gunesin Oglu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5766.mp4
+#EXTINF:-1,TR VOD | Hayat Sana Guzel
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5767.mp4
+#EXTINF:-1,TR VOD | Hayatboyu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5768.mp4
+#EXTINF:-1,TR VOD | Hayatimin Kadinisin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5769.mp4
+#EXTINF:-1,TR VOD | Hemso
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5770.mp4
+#EXTINF:-1,TR VOD | Herkes Mi Aldatir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5771.mp4
+#EXTINF:-1,TR VOD | Iksir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5773.mp4
+#EXTINF:-1,TR VOD | Kadin Isi Banka Soygunu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5774.mp4
+#EXTINF:-1,TR VOD | Kamp
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5775.mp4
+#EXTINF:-1,TR VOD | Kedi Ozledi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5776.mp4
+#EXTINF:-1,TR VOD | Kis Uykusu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5777.mp4
+#EXTINF:-1,TR VOD | Kizim Icin
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5778.mp4
+#EXTINF:-1,TR VOD | Koksuz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5779.mp4
+#EXTINF:-1,TR VOD | Kolay Para
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5780.mp4
+#EXTINF:-1,TR VOD | Kucuk Hanimin Soforu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5781.mp4
+#EXTINF:-1,TR VOD | Kuma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5782.mp4
+#EXTINF:-1,TR VOD | Kusursuzlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5783.mp4
+#EXTINF:-1,TR VOD | Kutsal Damacana
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5784.mp4
+#EXTINF:-1,TR VOD | Masukun Nefesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5785.mp4
+#EXTINF:-1,TR VOD | Mavi Dalga
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5786.mp4
+#EXTINF:-1,TR VOD | Mc Dandik
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5787.mp4
+#EXTINF:-1,TR VOD | Meleklerin Mucizesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5788.mp4
+#EXTINF:-1,TR VOD | Menekseden Once
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5789.mp4
+#EXTINF:-1,TR VOD | Muhalif Baskan
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5790.mp4
+#EXTINF:-1,TR VOD | Muska
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5791.mp4
+#EXTINF:-1,TR VOD | Nefes Vatan Sagolsun
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5792.mp4
+#EXTINF:-1,TR VOD | Neva
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5793.mp4
+#EXTINF:-1,TR VOD | Omer Cip
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5794.mp4
+#EXTINF:-1,TR VOD | Orada
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5795.mp4
+#EXTINF:-1,TR VOD | Oz Hakiki Karakol
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5796.mp4
+#EXTINF:-1,TR VOD | Ozur Dilerim
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5797.mp4
+#EXTINF:-1,TR VOD | Panzehir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5798.mp4
+#EXTINF:-1,TR VOD | Pazar Bir Ticaret Masali
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5799.mp4
+#EXTINF:-1,TR VOD | Sen Ne Dilersen
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5807.mp4
+#EXTINF:-1,TR VOD | Silsile
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5810.mp4
+#EXTINF:-1,TR VOD | Simdiki Zaman
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5811.mp4
+#EXTINF:-1,TR VOD | Vay Basima Gelenler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5820.mp4
+#EXTINF:-1,TR VOD | Yarim Kalan Mucize
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5821.mp4
+#EXTINF:-1,TR VOD | Yazi Tura
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5822.mp4
+#EXTINF:-1,TR VOD | Yunus Emre Askin Sesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5823.mp4
+#EXTINF:-1,TR VOD | Zaman Makinasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5824.mp4
+#EXTINF:-1,TR VOD | Yuru Gari Ibram
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5605.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Battle of the damned.3d
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5091.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | The Nut Job  3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5086.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Titanic 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5087.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Transcendence 2014 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5088.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Transformers Age of Extinction 2014
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5089.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Transformers.Dark.of.the.Moon.3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5090.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Alligator
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5053.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Avengers Age of Ultron
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5046.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | AylrnKrllg 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5072.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Cikis Yok No Way Out 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5071.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Dawn of the Planet of the Apes 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5073.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Edge of Tomorrow 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5074.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Everest
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5054.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Everest 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5075.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | FROG KINGDOM
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5055.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Goosebumps
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5056.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Guardians of the Galaxy
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5057.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Hobbit 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5076.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | In the Heart of the Sea
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5058.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Inside Out
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5047.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Jurassic World
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5048.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Kite
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5078.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Mad Max Fury Road
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5079.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Marsli
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5060.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Marsli 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5080.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Minions
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5061.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Minions 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5081.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Oz Efsanesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5082.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Paranormal Activity 5
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5062.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Penguins of Madagascar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5049.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Pixels 3d
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5083.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Planes Fire and Rescue  3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5084.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Point Break
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5063.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Poltergeist 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5064.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Prince
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5065.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Run
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5059.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | San Andreas
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5050.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | San.Andreas 2015
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5051.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Sin City A Dame to Kill For 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5066.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Terminator Genisys 2015
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5052.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | The Amazing Spider Man.2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5085.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | The Four 3 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5067.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | The Hunger Games Mockingjay Part 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5068.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | The Walk 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5069.mp4
+#EXTINF:-1,TR VOD CINEMA 3D | Vikingdom 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5070.mp4
+#EXTINF:-1,TR ANIMATION VOD | 101Dlmcy
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5873.mp4
+#EXTINF:-1,TR ANIMATION VOD | 101Dlmcyl2 Ptchn Lndr Mcrs
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5874.mp4
+#EXTINF:-1,TR ANIMATION VOD | Acemi Gladyator
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5875.mp4
+#EXTINF:-1,TR ANIMATION VOD | Adalet Birligi AtlantisTahti
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5876.mp4
+#EXTINF:-1,TR ANIMATION VOD | Afacan ve Kurbaga Surat
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5877.mp4
+#EXTINF:-1,TR ANIMATION VOD | Anastasia
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5878.mp4
+#EXTINF:-1,TR ANIMATION VOD | Appleseed Alpha
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5879.mp4
+#EXTINF:-1,TR ANIMATION VOD | Aristokediler
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5880.mp4
+#EXTINF:-1,TR ANIMATION VOD | Asiricilar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5881.mp4
+#EXTINF:-1,TR ANIMATION VOD | Atlantis Kayip ?mparatorluk
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5882.mp4
+#EXTINF:-1,TR ANIMATION VOD | Azur ve Asmar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5883.mp4
+#EXTINF:-1,TR ANIMATION VOD | Barbie Prensesin Super Gucu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5884.mp4
+#EXTINF:-1,TR ANIMATION VOD | Barbie The Pearl Princess
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5885.mp4
+#EXTINF:-1,TR ANIMATION VOD | Barbie ve Sihirli Dunyasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5886.mp4
+#EXTINF:-1,TR ANIMATION VOD | Batman in Oglu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5889.mp4
+#EXTINF:-1,TR ANIMATION VOD | Batman The Dark Knight Returns Part.1
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5887.mp4
+#EXTINF:-1,TR ANIMATION VOD | Batman The Dark Knight Returns Part.2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5888.mp4
+#EXTINF:-1,TR ANIMATION VOD | Bugs Bunny
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5890.mp4
+#EXTINF:-1,TR ANIMATION VOD | Buyuler. Evi Sihirbaz Kedi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5891.mp4
+#EXTINF:-1,TR ANIMATION VOD | Casus Kizlar Totally Spies
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5892.mp4
+#EXTINF:-1,TR ANIMATION VOD | Cendrillon au Far West
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5893.mp4
+#EXTINF:-1,TR ANIMATION VOD | Cesur
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5894.mp4
+#EXTINF:-1,TR ANIMATION VOD | Cesur Tavsanin Macerasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5895.mp4
+#EXTINF:-1,TR ANIMATION VOD | Clutch Powersin Maceralari
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5896.mp4
+#EXTINF:-1,TR ANIMATION VOD | Croodlar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5897.mp4
+#EXTINF:-1,TR ANIMATION VOD | Finding Nemo
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5898.mp4
+#EXTINF:-1,TR ANIMATION VOD | Frankenweenie
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5899.mp4
+#EXTINF:-1,TR ANIMATION VOD | FrngllySnYgmrOrmn
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5900.mp4
+#EXTINF:-1,TR ANIMATION VOD | Futurama Into the Wild Green Yonder
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5901.mp4
+#EXTINF:-1,TR ANIMATION VOD | Happy Feet
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5902.mp4
+#EXTINF:-1,TR ANIMATION VOD | Hediye Operasyonu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5903.mp4
+#EXTINF:-1,TR ANIMATION VOD | Hirsiz Kedi Pariste
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5904.mp4
+#EXTINF:-1,TR ANIMATION VOD | Hotel Transylvania
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5905.mp4
+#EXTINF:-1,TR ANIMATION VOD | Ice Age A Mammoth Christmas
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5906.mp4
+#EXTINF:-1,TR ANIMATION VOD | Ice Age Continental Drift
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5907.mp4
+#EXTINF:-1,TR ANIMATION VOD | Iki Arkadas
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5908.mp4
+#EXTINF:-1,TR ANIMATION VOD | Intihar Dukkani
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5909.mp4
+#EXTINF:-1,TR ANIMATION VOD | Jock
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5910.mp4
+#EXTINF:-1,TR ANIMATION VOD | Jungle Shuffle
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5911.mp4
+#EXTINF:-1,TR ANIMATION VOD | Justice League The New Frontier
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5912.mp4
+#EXTINF:-1,TR ANIMATION VOD | Kahraman Maymun
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5913.mp4
+#EXTINF:-1,TR ANIMATION VOD | Kucuk Buyucu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5914.mp4
+#EXTINF:-1,TR ANIMATION VOD | Kucuk Denizkizi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5915.mp4
+#EXTINF:-1,TR ANIMATION VOD | Kucuk Melek
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5916.mp4
+#EXTINF:-1,TR ANIMATION VOD | Kugu Prenses Kraliyet Ailesi Masali
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5917.mp4
+#EXTINF:-1,TR ANIMATION VOD | Lego DC Adalet Takimi Kotulere Karsi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5918.mp4
+#EXTINF:-1,TR ANIMATION VOD | Monster High 13 Wishes
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5919.mp4
+#EXTINF:-1,TR ANIMATION VOD | Monster High Acayip Donusum
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5920.mp4
+#EXTINF:-1,TR ANIMATION VOD | Monster High Ghouls Rule
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5921.mp4
+#EXTINF:-1,TR ANIMATION VOD | Mutluluk Sicak Bir Battaniyedir
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5922.mp4
+#EXTINF:-1,TR ANIMATION VOD | Onigamiden
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5923.mp4
+#EXTINF:-1,TR ANIMATION VOD | Orman Cocugu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5924.mp4
+#EXTINF:-1,TR ANIMATION VOD | Oyunbozan Ralph
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5925.mp4
+#EXTINF:-1,TR ANIMATION VOD | Oz Efsanesi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5926.mp4
+#EXTINF:-1,TR ANIMATION VOD | Ozgur Balik
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5927.mp4
+#EXTINF:-1,TR ANIMATION VOD | Pariste cilgin Macera
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5928.mp4
+#EXTINF:-1,TR ANIMATION VOD | Penguins of Madagascar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5929.mp4
+#EXTINF:-1,TR ANIMATION VOD | Pocahontas
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5930.mp4
+#EXTINF:-1,TR ANIMATION VOD | Reef 2 High Tide
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5932.mp4
+#EXTINF:-1,TR ANIMATION VOD | Rise Of The Guardians
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5933.mp4
+#EXTINF:-1,TR ANIMATION VOD | See Food
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5935.mp4
+#EXTINF:-1,TR ANIMATION VOD | Tinker Bell Secret of the Wings
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5955.mp4
+#EXTINF:-1,TR ANIMATION VOD | Tom and Jerry Meet Sherlock Holmes
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5957.mp4
+#EXTINF:-1,TR ANIMATION VOD | Tom And Jerrys Giant Adventure
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5956.mp4
+#EXTINF:-1,TR ANIMATION VOD | Tom ve Jerry Robin Hood Masali
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5958.mp4
+#EXTINF:-1,TR ANIMATION VOD | Top Cat
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5959.mp4
+#EXTINF:-1,TR ANIMATION VOD | Ucaklar 2 Sondur ve Kurtar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5960.mp4
+#EXTINF:-1,TR ANIMATION VOD | Ultimate Avengers
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5961.mp4
+#EXTINF:-1,TR ANIMATION VOD | Vahsi Doga
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5962.mp4
+#EXTINF:-1,TR ANIMATION VOD | Winnie The Pooh
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5963.mp4
+#EXTINF:-1,TR ANIMATION VOD | Winx Club Okyun Gizemi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5964.mp4
+#EXTINF:-1,TR ANIMATION VOD | YrynSt
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5965.mp4
+#EXTINF:-1,TR ANIMATION VOD | ZhuZhu Pets Quest for Zhu
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5966.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Animals United
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5092.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Ay Macerasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5093.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Beauty and the Beast
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5094.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Cinderella
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5095.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Coraline
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5096.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Despicable Me
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5097.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Epic
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5098.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Frozen
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5099.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Gladiatori di Roma
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5100.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Hamam Bocegi Macerasi
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5101.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | How to Train Your Dragon
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5103.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | How to Train Your Dragon 2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5102.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Ice Age Continental Drift
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5104.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Inside Out
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5105.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Janosch komm wir finden einen Schatz
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5106.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Kahraman Micolar
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5107.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Karlar Kralicesi 2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5108.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Le Chat du Rabbin.
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5109.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Les Contes De La Nuit
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5110.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Maaginen Kristalli
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5111.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Monsters Inc
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5112.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Monsters University
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5113.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Mr Peabody And Sherman
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5114.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Olsen Gang Gets Polished
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5115.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Rio
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5116.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Ritter Rost Eisenhart nd voll verbeult 3D
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5117.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Space Chimp 2
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5118.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | The Little Mermaid
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5119.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | The Little Prince
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5120.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | The Missing Lynx
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5121.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | The Peanuts Movie
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5122.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | The Prodigies
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5123.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Turbo
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5124.mp4
+#EXTINF:-1,TR VOD ANIMATION 3D | Yu-Gi-Oh Bonds Beyond Time Abridged
+http://biwsat.com:8080/movie/2Fhx0z1U6u/BiOET0tsaz/5125.mp4
