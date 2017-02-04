@@ -1,59 +1,61 @@
 #EXTM3U
-#EXTINF:-1,TRT 1
-http://185.56.30.204/live/trt1.m3u8
-#EXTINF:-1,Trt Haber
-http://185.56.30.204/live/trthaber.m3u8
-#EXTINF:-1,Kanal D
-http://185.56.30.204/live/kanald.m3u8
+#EXTINF:0,TRT 1 HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:0,TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:0,TRT SPOR HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:0,TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0,TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:0,TRT DİYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:0,TRT KURDÎ
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:0,TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:0,TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:0,TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0,TRT ARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:0,TRT HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8
+#EXTINF:-1,KANAL D HD
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8
+#EXTINF:-1,SHOW TV HD
+http://live-ciner.mncdn.net/showtv/showtv2/master.m3u8
+#EXTINF:-1,ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1,TV8 HD Entertainment
+http://ls.viviso.tv/i/tv8sdi_1@349694/master.m3u8
 #EXTINF:-1,Star TV
-http://185.56.30.204/live/star.m3u8
-#EXTINF:-1,ATV TV SD
-http://185.56.30.204/live/atv.m3u8
-#EXTINF:-1,Show TV
-http://185.56.30.204/live/showtv.m3u8
-#EXTINF:-1,Fox TV
-http://185.56.30.204/live/foxtv.m3u8
-#EXTINF:-1,TEVE 2
-http://185.56.30.204/live/tv2.m3u8
-#EXTINF:-1,TLC TV
-http://185.56.30.204/live/tlctv.m3u8
-#EXTINF:-1,TV8
-http://185.56.30.204/live/tv8.m3u8
-#EXTINF:-1,TV8.5
-http://185.56.30.204/live/tv85.m3u8
-#EXTINF:-1,Beyaz TV
-http://185.56.30.204/live/beyaztv.m3u8
-#EXTINF:-1,Kanal 7 SD
-http://185.56.30.204/live/kanal7.m3u8
-#EXTINF:-1,Kanal A
-http://185.56.30.204/live/kanala.m3u8
-#EXTINF:-1,Flash TV
-http://185.56.30.204/live/flashtv.m3u8
-#EXTINF:-1,Yaban TV
-http://185.56.30.204/live/yabantv.m3u8
-#EXTINF:-1,a2
-http://185.56.30.204/live/a2.m3u8
-#EXTINF:-1,A Haber HD
-http://185.56.30.204/live/ahaber.m3u8
-#EXTINF:-1,A Sport
-http://185.56.30.204/live/aspor.m3u8
-#EXTINF:-1,AZTV SD
-http://185.56.30.204/live/aztv.m3u8
-#EXTINF:-1,Idman AZ SD
-http://185.56.30.204/live/idmantv.m3u8
-#EXTINF:-1,TRT SPOR SD
-http://185.56.30.204/live/trtspor.m3u8
-#EXTINF:-1,Ntv TV
-http://185.56.30.204/live/ntv.m3u8
-#EXTINF:-1,Ntv Spor
-http://185.56.30.204/live/ntvspor.m3u8
-#EXTINF:-1,Haber Turk
-http://185.56.30.204/live/haberturk.m3u8
-#EXTINF:-1,TRT Çocuk
-http://185.56.30.204/live/trtcocuk.m3u8
-#EXTINF:-1,Cartoon Network
-http://185.56.30.204/live/cartoon.m3u8
-#EXTINF:-1,Minika TV Go
-http://185.56.30.204/live/minikago.m3u8
-#EXTINF:-1,Minika Cocuk
-http://185.56.30.204/live/minikacocuk.m3u8
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179
+fc45f18506125345f_live_0_0/index.m3u8
+#EXTINF:-1,CNN TuRK HD News
+http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:-1,FOX HD
+http://foxtv-i.mncdn.com/r_foxtv/foxtv3/playlist.m3u8
+#EXTINF:-1,KANALTuRK HD News
+http://kanalturk-live.ercdn.com/kanalturk1.m3u8
+#EXTINF:-1,HABERTuRKNews
+http://live-ciner.mncdn.net/haberturk/haberturk2/master.m3u8
+#EXTINF:-1,uLKE TV HD
+http://livetr.gostream.nl/ulketvhq/ulketvhq/master.m3u8
+#EXTINF:-1,KANAL 7 HD
+http://livetr.gostream.nl/kanal7hq/kanal7hq/ratus42.m3u8
+#EXTINF:-1,NTV Spor Sport
+http://bak01-edge03.itdc.ge/ntvspor/index.m3u8
+#EXTINF:-1,TV2 Movie-Entertainment
+http://212.224.80.84/S2/HLS_LIVE/tv2/track_4_1000/playlist.m3u8
+#EXTINF:-1,Fil TV Movie
+http://tvlive.web.tv.streamprovider.net/akamairtmp/2daa5524735b9
+8a7ab51ddd48663a474_live_0_0/chunklist.m3u8
+#EXTINF:-1,POWER TV HD Music
+http://cdn2.powergroup.com.tr/powertv/_definst_/powertv.smil/playlist.m3u8
+#EXTINF:-1,POWERTuRK TV HD Music
+http://cdn2.powergroup.com.tr/powertv/_definst_/powerturktv.smil/playlist.m3u8
